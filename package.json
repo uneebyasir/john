@@ -1,0 +1,29 @@
+{
+  "name": "with-css-modules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export",
+    "deploy": "npm run build && npm run export"
+  },
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "axios": "^0.18.0",
+    "country-list": "^2.1.1",
+    "delay": "^4.3.0",
+    "express": "^4.16.4",
+    "next": "8.1.0",
+    "react": "16.8.6",
+    "react-bootstrap": "^1.0.0-beta.8",
+    "react-dom": "16.8.6",
+    "react-favicon": "0.0.16",
+    "react-intersection-visible": "^2.1.0",
+    "react-scrollchor": "^6.0.0",
+    "react-spring": "^8.0.27",
+    "react-sticky-el": "^1.0.20",
+    "styled-components": "^4.2.0"
+  }
+}

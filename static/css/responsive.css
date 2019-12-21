@@ -1,0 +1,4455 @@
+@media (min-width: 320px) and (max-width: 479px){
+
+    .emptyFormDiv {
+        height: 50px;
+    }
+    .top-header{
+        padding-top: 110px;
+    }
+    /*Header Navbar starts*/
+    .logo{
+        width: 120px;
+        margin-top:31px;
+    }
+    .none{
+        display: none;
+    }
+    .disp-rw{
+        display: flex;
+    }
+    .toggleButton{
+        display: block;
+        align-self: center;
+        width: 50%;
+        padding: 35px 0px 10px 80px;
+    }
+    .toggle-pos{
+        width: 20px;
+        position: relative;
+    }
+    .toggle-pos:hover .hovTogle{
+        opacity: 1;
+    }
+    .img-togg{
+        width: 100%;
+    }
+    .toggle-dropDown{
+        position: absolute;
+        bottom: 0;
+        top: 65px;
+        right: 0;
+        left: -11px;
+        bottom: 0;
+    }
+    .red-bg-tog{
+        background-color: #eaedf3;
+    }
+    .red-bg-tog{
+        background-color: #eaedf3;
+    }
+    .red-bg-tog{
+        background-color: #eaedf3;
+    }
+    .red-bg-tog{
+        background-color: #eaedf3;
+    }
+    .togle-list{
+        background: black;
+        list-style: none;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 25px;
+    }
+    .togle-list li{
+        padding: 10px;
+        margin-bottom: 29px;
+        color: white;
+
+    }
+    .togle-list li a{
+        color: white;
+    }
+    .togle-list li a:active, .togle-list li a:hover{
+        color: #c14343;
+    }
+    .navbar-header{
+        width: 50%;
+    }
+    .shape-overlays.is-opened {
+        top: -100px !important;
+    }
+    .global-menu {
+        height: 65vh !important;
+    }
+    .navbar {
+        height: 85px;
+        padding: 0px 2px 0px 14px;
+    }
+    /*Header Navbar Ends*/
+    /*Hompage Starts*/
+    .heading-upper h1 {
+        line-height: 1.5!important;
+        font-size: 40px!important;
+        padding-top: 0px;
+    }
+    .heading-upper p {
+        font-size: 24px!important;
+        margin-bottom: 0!important;
+         line-height: 1.5!important;
+    }
+
+    .alpha-squad-img {
+        padding-top: 30px;
+    }
+    .main-heading-container {
+         padding-top: 0;
+    }
+    .toyota-logo-bg {
+        background-size: 30%;
+    }
+    .diagSection {
+        display: none;
+    }
+    .industryLeaders p {
+        font-size: 12px;
+    }
+    .serviceSection .serviceHeader p {
+        font-size: 12px;
+    }
+    .serviceSection .serviceHeader h1 {
+        font-size: 14px!important;
+    }
+
+    .serviceText {
+        min-height: 43px;
+        font-size: 11px;
+         margin-bottom: 0;
+    }
+    .serviceHead {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+    .serviceMore h6 {
+        font-size: 9px;
+    }
+    .svg-background {
+        background-size: 31%;
+    }
+    .serviceSlider {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    .serviceMore{
+        justify-content: center;
+    }
+    .case-study-slider{
+        display: none;
+    }
+    .serviceSvg{
+        width: 50px;
+        height: 35px;
+    }
+    .sectionWhy {
+        padding-top: 70px;
+    }
+
+    .header-blog{
+        height: 100%;
+        padding-bottom: 25px;
+        display: flex;
+    }
+
+    .whySubHead {
+        font-size: 14px!important;
+        line-height: 20px!important;
+    }
+    .whyHeading {
+        font-size: 12px;
+        line-height: 0px;
+    }
+    .blogTitle h4 {
+        font-size: 12px;
+    }
+    .blogHead {
+        font-size: 24px!important;
+    }
+    .blogContainer .container .col-md-4 {
+        width: auto;
+        padding: 30px;
+        margin: 20px 34px;
+    }
+    .postArrow {
+        padding-top: 75px;
+    }
+    .blogPostHead {
+        font-size: 15px;
+        margin-bottom: 12px;
+    }
+    .blackPost h4 {
+        font-size: 13px;
+    }
+    .postHeading {
+        margin-top: 31px;
+    }
+    .blackPost h1 {
+        font-size: 17px;
+    }
+    .blogCard {
+        height: 295px;
+    }
+    .postAvatar {
+        width: 45px;
+        height: 45px;
+    }
+    .blogPostTitleCon {
+        margin: 12px 0 5px 0;
+        font-size: 14px;
+    }
+    .blogPostDate {
+        font-size: 12px;
+    }
+    .blogPostTitle {
+        font-size: 15px;
+        line-height: 25px;
+        margin-top: 22px;
+        margin-bottom: 19px;
+    }
+    .blogContainer .container {
+        margin-top: 27px;
+        display: block;
+    }
+    .blogPostSubTitle {
+        line-height: 22px;
+        font-size: 11px;
+    }
+    .whyHead {
+        margin-top: 19px;
+    }
+    .rightForm {
+        padding: 9px;
+        position: unset;
+    }
+    .formCard {
+        margin-bottom: 20px;
+    }
+    .formPercentageText h4 {
+        font-size: 11px;
+    }
+    .formPercentageText p {
+        font-size: 12px;
+    }
+    .rightForm .form-control {
+        height: 42px;
+        font-size: 11px;
+    }
+    .formDropdown {
+        top: 13px;
+    }
+    .positionRow {
+        margin-left: unset;
+        width: 100% !important;
+    }
+    .positionRow1 {
+        margin-right: unset;
+        width: 100%  !important;
+    }
+    .p-0{
+        padding-left: 0 !important;
+        padding-right:0 !important;
+
+    }
+    .p-1{
+        margin-bottom: 15px;
+    }
+    .formBtn {
+        padding: 12px 12px;
+        font-size: 13px;
+        margin-top: 15px;
+    }
+    .largeArea .col-sm-12 .form-control {
+        height: 77px;
+    }
+    .formSquareCon {
+        margin-bottom: 0px;
+        justify-content: center;
+    }
+    .reference-part{
+        flex-direction: column;
+    }
+    .infoBox {
+        padding: 9px 21px;
+         margin-bottom: 0px;
+    }
+    .padding-cont{
+        padding:0;
+    }
+    .cont-img{
+        align-items: center;
+        height: 85px;
+    }
+    .infoBoxHead {
+        font-size: 16px;
+    }
+    .infoBoxDesc {
+        font-size: 15px;
+    }
+    .aurthor-img{
+        min-width: 66px;
+        min-height: 22px;
+    }
+
+    .mobileSlider{
+        display: block;
+    }
+    .meraContainer .row .col-md-4 {
+         width: auto;
+    }
+    .whyInner {
+        margin: 44px 0px 14px 4px;
+    }
+    .whysubHeading {
+        margin-top: 29px;
+        margin-bottom: 16px;
+        font-size: 17px;
+    }
+    .whyDescription {
+        font-size: 12px;
+         width: auto;
+    }
+    .whyCard {
+        margin: 0 25px;
+        height: auto;
+        padding-bottom: 15px;
+    }
+    .carousel-control.right {
+        right: 3% !important;
+    }
+    .carousel-control.left {
+        left: -2%;
+    }
+    .whyInner>svg{
+        height:40px;
+    }
+    .serviceSection {
+        background-image: none;
+    }
+    .emptyDiv {
+        height: 50px;
+    }
+    .testimonial-txt .para {
+        padding: 60px 0px 30px 0px;
+    }
+    .testimonaial-bg-svg{
+        min-height: 400px;
+        margin: 30px 0px;
+    }
+    .bgImg-shape{
+        min-height: 200px;
+    }
+    .flex-form {
+        padding: 0;
+    }
+
+    /*Product Page Starts*/
+    #productPage .productDevelopment {
+        font-size: 14px;
+    }
+    #productPage .headerLine {
+        left: -14%;
+        width: 23.82px;
+    }
+    #productPage .developing {
+        font-size: 16px;
+        line-height: 27px;
+    }
+    #productPage .headerInfo {
+        width: 69%;
+        font-size: 7px;
+        line-height: 25px;
+    }
+    #productPage .rightLabelItems {
+        right: -21px;
+        font-size: 11px;
+    }
+    #productPage .headerSubInfo {
+        font-size: 9px;
+        letter-spacing: 1.64px;
+        line-height: 15px;
+    }
+    .seeWeb,.serviceIcon,#productPage .leftMenuItems{
+        display: none;
+    }
+    #productPage .emptyInspireDiv {
+        height: 50px;
+    }
+    #productPage .sectionHeading {
+        font-size: 14px;
+        line-height: 23px;
+        padding-top: 44px;
+    }
+    #productPage .invertedNumber {
+        left: 17px;
+    }
+    #productPage .sectionDescription {
+        font-size: 11px;
+        line-height: 25px;
+        width: 67%;
+    }
+    #productPage .section .number {
+        left: 5%;
+        top: 17%;
+    }
+    #productPage .projectArrow {
+        width: 17px;
+        padding: 2px 2px;
+    }
+    #productPage .navArrowTitle {
+        font-size: 13px;
+        font-weight: 300;
+    }
+    #productPage .footerList {
+        margin-right:unset;
+    }
+    #productPage .spanHead {
+        font-size: 14px;
+    }
+    #productPage ul {
+        margin-left: -38px;
+        margin-top: 12px;
+    }
+
+    /*Innovation & Overhead Page Start*/
+    #overheadPage .headerLine, #innovationPage .headerLine {
+        left: -21%;
+        width: 24.82px;
+    }
+    #overheadPage .headingTop, #innovationPage .headingTop {
+        font-size: 20px;
+        font-weight: 500;
+    }
+    #overheadPage .headDesc, #innovationPage .headDesc {
+        font-weight: 300;
+        font-size: 12px;
+    }
+    #overheadPage .transTeam h1, #innovationPage .transTeam h1 {
+        font-size: 20px;
+    }
+    #overheadPage .transTeam p, #innovationPage .transTeam p {
+        font-size: 12px;
+    }
+    #overheadPage .outsourcedTeam, #innovationPage .outsourcedTeam {
+        font-size: 18px;
+    }
+    #overheadPage .paddingRow, #innovationPage .paddingRow {
+        padding-left: 0;
+    }
+    #overheadPage .gallerySlider, #innovationPage .gallerySlider {
+        display: none;
+    }
+    #overheadPage .infoBox, #innovationPage .infoBox {
+        padding: 15px 9px;
+    }
+    #overheadPage .boxHR, #innovationPage .boxHR {
+        bottom: 18%;
+    }
+    #overheadPage .infoBoxDesc, #innovationPage .infoBoxDesc {
+        font-size: 9px;
+        padding-top: 13px;
+        margin-bottom: -5px;
+        font-weight:300;
+        text-align: center;
+    }
+    #overheadPage .infoBoxHead, #innovationPage .infoBoxHead {
+        font-size: 26px;
+        font-weight: 300;
+    }
+    #overheadPage .cardContent1, #innovationPage .cardContent1 {
+        padding-left: 19px;
+    }
+    #overheadPage .cardContent h1, #innovationPage .cardContent h1 {
+        font-size: 12px;
+    }
+    #overheadPage .cardContent p, #innovationPage .cardContent p {
+        font-size: 10px;
+    }
+    #overheadPage .card .productDevelopment, #innovationPage .card .productDevelopment {
+        line-height: 26px;
+    }
+    #overheadPage .squadNumbers, #innovationPage .squadNumbers {
+        font-size: 18px;
+         margin-top: 0;
+    }
+    /*Innovation & Overhead Page End*/
+    /*Footer Starts*/
+    .footerContactBox .footerContactHead {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .footerContactDesc {
+        font-size: 16px;
+        line-height: 12px;
+    }
+    .emptyFooterDiv {
+        height: 30px;
+    }
+    .footer {
+        background-size: 975px;
+        background-position-x: 50%;
+        background-position-y: -98%;
+    }
+    .footerHeading {
+        font-size: 43px;
+        width: 100%;
+        line-height: 60px;
+    }
+    /*Footer Ends*/
+
+    /*about v1 page*/
+
+    .about-main-text{
+        padding-left:0;
+    }
+    .about-main-text h1{
+        font-size: 22px;
+        line-height: 40px;
+    }
+    .about-detail-heading h5{
+        font-size: 22px;
+    }
+    .about-long-detail{
+        font-size: 20px;
+    }
+    .custom-giving-container h1{
+        font-size: 22px;
+    }
+    .custom-giving-container p{
+        font-size: 20px;
+    }
+    .giving-row .col-md-4{
+        padding: unset;
+    }
+    .founders-heading{
+       padding-top: 0;
+        display:block
+    }
+    .founders-heading h5{
+        font-size: 22px;
+    }
+    .founder-long-detail{
+        font-size: 20px;
+    }
+    .dis-main-heading p{
+        font-size: 22px;
+    }
+    /*about page v2*/
+    .v2-img-header h1{
+        font-size: 22px;
+        padding-bottom: 183px
+    }
+    .v2-img-header{
+        min-height: 531px;
+    }
+    .v2-first-detail h5{
+        font-size: 22px;
+        line-height: 41px;
+    }
+    .v2-first-detail p{
+        font-size: 20px;
+    }
+    .v2-img-detaiil{
+        background-size: 100% 100%;
+        min-height: 255px;
+    }
+    .v2-p-detaiil{
+        padding-top: 30px;
+        padding-left: 0;
+        font-size: 20px;
+    }
+    /*blog details*/
+    #homePageInner .heading-top{
+        font-size: 22px;
+    }
+    #homePageInner .communicate h1{
+        font-size: 22px;
+    }
+    /*single blogs*/
+
+    .post-cards p{
+        font-size:18px;
+    }
+    .categories-filter h1{
+        font-size: 22px;
+    }
+    .categories-filter .categories-row ul{
+        display: block;
+    }
+    /*portfolio-detail*/
+    .title{
+        font-size: 22px;
+        line-height: 40px;
+    }
+    .inner-info2{
+        padding-left:0;
+    }
+    #productPage .content_area h1{
+        font-size:22px;
+        width: 100%;
+        padding-left:0;
+        padding: 0px 17px;
+    }
+    #productPage .content_area p{
+        padding-left: 0;
+        width: 100%;
+        padding: 0px 17px;
+        font-size:20px
+    }
+
+    /*Mobile App development Responsive here*/
+    .mobile-header-background >div {
+        padding-bottom: 75px;
+    }
+    .mobile-content-container{
+        padding: 5px 20px !important;
+    }
+    .mobile-content .col-md-6 h5 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .mobile-content .col-md-6 h6 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .mobile-content .col-md-6 p {
+        color: #63646A;
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .trans-card-section {
+        padding-top: 75px;
+    }
+    .trans-heading h1 {
+        font-size: 28px;
+        line-height: 30px;
+    }
+    .trans-heading p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .trans-card-column {
+        padding-top: 75px;
+    }
+    .tranp-card {
+        margin-bottom: 90px;
+        width: 100%;
+        text-align: center;
+    }
+    .tranp-card h6 {
+        font-size: 22px;
+        line-height: 30px;
+        min-height: 55px;
+    }
+    .tranp-card p {
+        font-size: 18px;
+        padding-bottom: 10px;
+        width: 80%;
+        margin: 0 auto;
+    }
+    .number-card {
+        margin: 15px 0px;
+    }
+    .mobile-header-background h1 {
+        font-size: 32px;
+        line-height: 40px;
+        padding-top: 10px;
+    }
+    .mobile-header-background {
+        min-height: 600px;
+    }
+
+    /*Web-App development responsive style here*/
+    .web-app-header {
+        min-height: 600px;
+    }
+    .web-app-line hr {
+        width: 50px;
+        margin-left: 10px;
+        margin-right: 20px;
+    }
+    .web-app-line h4 {
+        font-size: 20px;
+        line-height: 40px;
+    }
+    .web-app-content .col-md-12 div h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .web-app-content .col-md-12 div h4 {
+        font-size: 18px;
+        line-height: 26px;
+        color: #63646A;
+    }
+    .web-app-content .col-md-12 div p {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .key-section h1 {
+        padding: 0px 10px 80px 10px;
+    }
+    .product-header{
+        padding-top: 100px;
+    }
+    .title{
+        font-size: 22px;
+        line-height: 40px;
+        padding-left: 0;
+        width: 100%;
+    }
+    .client-info{
+        padding:0;
+        flex-direction: column;
+    }
+    .header-image-background{
+        min-height: 179px;
+    }
+    .sticky-menu{
+        display: none;
+    }
+    #productPage .section .number{
+        left: 18px;
+        top: -5px;
+    }
+    .headerBtn {
+        padding: 10px 23px!important;
+        font-size: 16px!important;
+        font-weight: 500!important;
+        background-color: transparent;
+    }
+    .button-wrapper{
+        margin-left: 0;
+        margin-bottom: 30px;
+        padding-left: 0!important;
+    }
+    .main-service-section{
+        margin-top: 150px;
+    }
+    .margin-rw{
+        margin: 93px 0px 0 0;
+    }
+    .padding-cont1{
+        padding: 0;
+    }
+    .image-cont{
+        padding-top: 30px;
+    }
+    .active-menu .logo{
+        width: 120px;
+    }
+    .main-service-section{
+        margin-top: 111px;
+        padding: 0 20px;
+        margin-bottom: 18px;
+    }
+    .flower-div{
+        min-height: unset;
+        padding-bottom: 21px;
+    }
+    .custom-giving-container{
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .long-card-main{
+        padding-top:0;
+    }
+    .main_heading{
+        padding: 30px 0 30px 0;
+    }
+    /*********/
+    /*case studies portfolio card*/
+    .portfoliocard{
+        background-size: contain;
+    }
+    .hoverCard{
+        opacity: 1!important;
+    }
+    .testimonaial-bg-svg{
+     display: none;
+    }
+    .formPercentage{
+     width: 100%;
+    }
+    .formPercentage{
+        width: 100%;
+    }
+    /*responsive styling for treatment page starts*/
+   .treatment-first-section .main-col{
+   flex-direction: column;
+   }
+   .treatment-first-section .content-div{
+       width: 100%;
+   }
+   .treatment-first-section .main-col h1{
+    font-size: 30px;
+   }
+    .treatment-first-section .main-col p {
+        font-size: 18px;
+    }
+    .first-section-sign{
+        flex-direction: column;
+    }
+    .first-section-sign p{
+        padding:20px 0px
+    }
+    /*main-section-images*/
+
+    .anim-image-1,.anim-image-2,.anim-image-3{
+        width: 100%;
+        left:0;
+        top:0
+    }
+    .anim-image-3{
+        margin-top:0
+    }
+    .anim-image-2{
+        margin-top: -110px;
+    }
+    /*main-section-images*/
+
+    .treat-knowledge-section .heading-col h1{
+        font-size: 30px;
+    }
+    .guess-div h1{
+        font-size: 30px;
+    }
+    .sign-btn-2{
+        width: 100%;
+        font-size: 15px;
+    }
+    .audit-section .d-f{
+        flex-direction: column;
+    }
+    .audit-img{
+  min-height: 220px;
+    }
+    .audit-section .heading-col h1 {
+font-size: 30px;
+    }
+    .audit-list-side p {
+        font-size: 18px;
+    }
+    .audit-list-side ul{
+   margin-right:0;
+   margin-top:0;
+
+    }
+    .audit-list-side ul li{
+        font-size:16px;
+        line-height: unset;
+    }
+    .audit-list-side ul li:first-child{
+        font-size:18px
+    }
+    .audit-btn{
+      width: 100%;
+        margin-top:0;
+        font-size: 14px;
+    }
+    .audit-section .heading-col {
+        padding: 10px 0px;
+    }
+    .knowledge-card{
+        margin:4px 0px;
+        min-height:260px
+    }
+    .goto-link{
+        margin-top:30px;
+    }
+    /*styling for treatment page ends*/
+    }
+@media (min-width: 480px) and (max-width: 574px){
+    .emptyFormDiv {
+        height: 50px;
+    }
+    /*Header Navbar starts*/
+    .none{
+        display: none;
+    }
+    .disp-rw{
+        display: flex;
+    }
+    .toggleButton{
+        display: block;
+        align-self: center;
+        width: 50%;
+        padding: 35px 0px 10px 80px;
+        margin-left: 155px;
+    }
+    .toggle-pos{
+        width: 20px;
+        position: relative;
+    }
+    .toggle-pos:hover .hovTogle{
+        opacity: 1;
+    }
+    .img-togg{
+        width: 100%;
+    }
+    .toggle-dropDown{
+        position: absolute;
+        bottom: 0;
+        top: 65px;
+        right: 0;
+        left: -11px;
+        bottom: 0;
+    }
+    .red-bg-tog{
+        background-color: #eaedf3;
+    }
+    .togle-list{
+        background: black;
+        list-style: none;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 25px;
+    }
+    .togle-list li{
+        padding: 10px;
+        margin-bottom: 29px;
+        color: white;
+
+    }
+    .togle-list li a{
+        color: white;
+    }
+    .togle-list li a:active, .togle-list li a:hover{
+        color: #c14343;
+    }
+    .navbar-header{
+        width: 50%;
+    }
+    .navbar{
+        height:73px;
+        padding: 5px 0px 5px 14px;
+    }
+    .logo {
+        width: 137px;
+    }
+    .hamburger{
+        top:0 !important;
+        right: 0 !important;
+    }
+    .shape-overlays.is-opened {
+        top: -100px !important;
+    }
+    .global-menu {
+        height: 44vh !important;
+    }
+    /*Header Navbar Ends*/
+    /*Innovation & Overhead Page Start*/
+    #overheadPage .gallerySlider, #innovationPage .gallerySlider {
+        display: none;
+    }
+    #overheadPage .headerLine, #innovationPage .headerLine {
+        left: -9%;
+    }
+    #overheadPage .productDevelopment, #innovationPage .productDevelopment {
+        font-size: 15px;
+    }
+    #overheadPage .headingTop, #innovationPage .headingTop {
+        font-size: 20px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    #overheadPage .headDesc, #innovationPage .headDesc {
+        font-size: 13px;
+    }
+    #overheadPage .viewMoreBtn, #innovationPage .viewMoreBtn {
+        margin-top: 23px;
+        margin-bottom: 40px;
+    }
+    #overheadPage .transTeam h1, #innovationPage .transTeam h1 {
+        font-size: 22px;
+    }
+    #overheadPage .transTeam p, #innovationPage .transTeam p {
+        font-size: 12px;
+    }
+    #overheadPage .paddingRow, #innovationPage .paddingRow {
+        padding-left: 0;
+    }
+    #overheadPage .svg-background, #innovationPage .svg-background {
+        background-size: 18%;
+    }
+    #overheadPage .infoBoxDesc, #innovationPage .infoBoxDesc {
+        font-size: 11px;
+        padding-top: 46px;
+        text-align: center;
+        margin-bottom: -9px;
+    }
+    #overheadPage .infoBox, #innovationPage .infoBox {
+        padding: 22px 31px;
+    }
+    #overheadPage .infoBoxHead, #innovationPage .infoBoxHead {
+        font-size: 32px;
+    }
+    /*Innovation & Overhead Page End*/
+    /*Footer Starts*/
+    .footer{
+        background-size: 2985px;
+    }
+    .footerHeading {
+        font-size: 22px;
+         line-height: 1.5;
+    }
+    .footerContactDesc {
+         line-height: 1.5;
+    }
+    /*Footer Ends*/
+    /*Header Navbar starts*/
+    .logo{
+        width: 120px;
+        margin-top:31px;
+    }
+    .shape-overlays.is-opened {
+        top: -100px !important;
+    }
+    .global-menu {
+        height: 65vh !important;
+    }
+    .navbar {
+        height: 85px;
+        padding: 0px 2px 0px 14px;
+    }
+    /*Header Navbar Ends*/
+    /*Hompage Starts*/
+    .heading-upper h1 {
+        line-height: 1.5!important;
+        font-size: 22px!important;
+        padding-top: 60px;
+    }
+    .heading-upper p {
+        font-size: 16px!important;
+        margin-bottom: 0!important;
+        line-height: 1.5!important;
+    }
+    .headerBtn {
+        padding: 1px 5px!important;
+        font-size: 10px!important;
+        font-weight: 500!important;
+        background-color: transparent;
+    }
+    .alpha-squad-img {
+        padding-top: 30px;
+    }
+    .main-heading-container {
+        padding-top: 0;
+    }
+    .toyota-logo-bg {
+        background-size: 30%;
+    }
+    .diagSection {
+        display: none;
+    }
+    .industryLeaders p {
+        font-size: 12px;
+    }
+    .serviceSection .serviceHeader p {
+        font-size: 12px;
+    }
+    .serviceSection .serviceHeader h1 {
+        font-size: 14px!important;
+    }
+
+    .serviceText {
+        min-height: 43px;
+        font-size: 11px;
+        margin-bottom: 0;
+    }
+    .serviceHead {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+    .serviceMore h6 {
+        font-size: 9px;
+    }
+    .svg-background {
+        background-size: 31%;
+    }
+    .serviceSlider {
+        margin-bottom: 20px;
+    }
+    .serviceSvg{
+        width: 50px;
+        height: 35px;
+    }
+    .whySubHead {
+        font-size: 14px!important;
+        line-height: 20px!important;
+    }
+    .whyHeading {
+        font-size: 12px;
+        line-height: 0px;
+    }
+    .blogTitle h4 {
+        font-size: 12px;
+    }
+    .blogHead {
+        font-size: 24px!important;
+    }
+    .blogContainer .container .col-md-4 {
+        width: auto;
+        padding: 30px;
+        margin: 20px 34px;
+    }
+    .postArrow {
+        padding-top: 75px;
+    }
+    .blogPostHead {
+        font-size: 15px;
+        margin-bottom: 12px;
+    }
+    .blackPost h4 {
+        font-size: 13px;
+    }
+    .postHeading {
+        margin-top: 31px;
+    }
+    .blackPost h1 {
+        font-size: 17px;
+    }
+    .blogCard {
+        height: 295px;
+    }
+    .postAvatar {
+        width: 45px;
+        height: 45px;
+    }
+    .blogPostTitleCon {
+        margin: 12px 0 5px 0;
+        font-size: 14px;
+    }
+    .blogPostDate {
+        font-size: 12px;
+    }
+    .blogPostTitle {
+        font-size: 15px;
+        line-height: 25px;
+        margin-top: 22px;
+        margin-bottom: 19px;
+    }
+    .blogContainer .container {
+        margin-top: 27px;
+        display: block;
+    }
+    .blogPostSubTitle {
+        line-height: 22px;
+        font-size: 11px;
+    }
+    .whyHead {
+        margin-top: 19px;
+    }
+    .rightForm {
+        padding: 9px;
+        position: unset;
+    }
+    .formCard {
+        margin-bottom: 20px;
+    }
+    .formPercentageText h4 {
+        font-size: 11px;
+    }
+    .formPercentageText p {
+        font-size: 12px;
+    }
+    .rightForm .form-control {
+        height: 42px;
+        font-size: 11px;
+    }
+    .formDropdown {
+        top: 13px;
+    }
+    .positionRow {
+        margin-left: unset;
+        width: 100% !important;
+    }
+    .positionRow1 {
+        margin-right: unset;
+        width: 100%  !important;
+    }
+    .p-0{
+        padding-left: 0 !important;
+        padding-right:0 !important;
+
+    }
+    .p-1{
+        margin-bottom: 15px;
+    }
+    .formBtn {
+        padding: 12px 12px;
+        font-size: 13px;
+        margin-top: 15px;
+    }
+    .largeArea .col-sm-12 .form-control {
+        height: 77px;
+    }
+    .formSquareCon {
+        margin-bottom: 0px;
+    }
+    .infoBox {
+        padding: 9px 21px;
+        margin-bottom: 0px;
+    }
+    .infoBoxHead {
+        font-size: 16px;
+    }
+    .infoBoxDesc {
+        font-size: 15px;
+    }
+    .mobileSlider{
+        display: block;
+    }
+    .meraContainer .row .col-md-4 {
+        width: auto;
+    }
+    .sectionWhy {
+        padding-top: 70px;
+    }
+    .whyInner {
+        margin: 44px 0px 14px 4px;
+    }
+    .whysubHeading {
+        margin-top: 29px;
+        margin-bottom: 16px;
+        font-size: 17px;
+    }
+    .whyHead {
+        margin-top: 19px;
+    }
+    .whyDescription {
+        font-size: 12px;
+        width: auto;
+    }
+    .whyCard {
+        margin: 0 25px;
+        height: auto;
+        padding-bottom: 15px;
+    }
+    .carousel-control.right {
+        right: 3% !important;
+    }
+    .carousel-control.left {
+        left: -2%;
+    }
+    .whyInner>svg{
+        height:40px;
+    }
+    .serviceSection {
+        background-image: none;
+    }
+    .emptyDiv {
+        height: 50px;
+    }
+    .formSquareCon {
+        margin-bottom: 0px;
+    }
+    /*about v1 page*/
+
+    .about-main-text{
+        padding-left:0;
+    }
+    .about-main-text h1{
+        font-size: 22px;
+        line-height: 40px;
+    }
+    .about-detail-heading h5{
+        font-size: 22px;
+    }
+    .about-long-detail{
+        font-size: 20px;
+    }
+    .custom-giving-container h1{
+        font-size: 22px;
+    }
+    .custom-giving-container p{
+        font-size: 20px;
+    }
+    .giving-row .col-md-4{
+        padding: unset;
+    }
+    .founders-heading{
+        padding-top: 55px;
+        display:block
+    }
+    .founders-heading h5{
+        font-size: 22px;
+    }
+    .founder-long-detail{
+        font-size: 20px;
+    }
+    .dis-main-heading p{
+        font-size: 22px;
+    }
+    /*blog details*/
+    #homePageInner .heading-top{
+        font-size: 22px;
+    }
+    #homePageInner .communicate h1{
+        font-size: 22px;
+    }
+    /*single blogs*/
+
+    .post-cards p{
+        font-size:18px;
+    }
+    .categories-filter h1{
+        font-size: 22px;
+    }
+    .categories-filter .categories-row ul{
+        display: block;
+    }
+    /*portfolio-detail*/
+    .title{
+        font-size: 22px;
+        line-height: 40px;
+    }
+    .inner-info2{
+        padding-left:0;
+    }
+    #productPage .content_area h1{
+        font-size:22px;
+        width: 100%;
+        padding-left:0;
+        padding: 0px 17px;
+    }
+    #productPage .content_area p{
+        padding-left: 0;
+        width: 100%;
+        padding: 0px 17px;
+        font-size:20px
+    }
+    /*Mobile App development Responsive here*/
+    .mobile-header-background >div {
+        padding-bottom: 75px;
+    }
+    .mobile-content-container{
+        padding: 5px 20px !important;
+    }
+    .mobile-content .col-md-6 h5 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .mobile-content .col-md-6 h6 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .mobile-content .col-md-6 p {
+        color: #63646A;
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .tranp-card {
+        margin-bottom: 90px;
+        width: 100%;
+        text-align: center;
+    }
+    .trans-card-section {
+        padding-top: 75px;
+    }
+    .trans-heading h1 {
+        font-size: 28px;
+        line-height: 30px;
+    }
+    .trans-heading p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .trans-card-column {
+        padding-top: 75px;
+    }
+    .tranp-card h6 {
+        font-size: 22px;
+        line-height: 30px;
+        min-height: 55px;
+    }
+    .tranp-card p {
+        font-size: 18px;
+        padding-bottom: 10px;
+        width: 80%;
+        margin: 0 auto;
+    }
+    .number-card {
+        margin: 15px 0px;
+    }
+    .mobile-header-background h1 {
+        font-size: 32px;
+        line-height: 40px;
+        padding-top: 10px;
+    }
+    .mobile-header-background {
+        min-height: 600px;
+    }
+
+    /*Web-App development responsive style here*/
+    .web-app-header {
+        min-height: 600px;
+    }
+    .web-app-line hr {
+        width: 50px;
+        margin-left: 10px;
+        margin-right: 20px;
+    }
+    .web-app-line h4 {
+        font-size: 22px;
+        line-height: 40px;
+        padding: 0px 8px;
+    }
+    .web-app-content .col-md-12 div h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .web-app-content .col-md-12 div h4 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .web-app-content .col-md-12 div p {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .key-section h1 {
+        padding: 0px 10px 80px 10px;
+    }
+
+    .product-header{
+        padding-top: 100px;
+    }
+    .title{
+        font-size: 22px;
+        line-height: 40px;
+        padding-left: 0;
+        width: 100%;
+    }
+    .client-info{
+        padding:0;
+        flex-direction: column;
+    }
+    .header-image-background{
+        min-height: 179px;
+    }
+    .sticky-menu{
+        display: none;
+    }
+    #productPage .section .number{
+        left: 18px;
+        top: -5px;
+    }
+    .headerBtn {
+        padding: 10px 23px!important;
+        font-size: 16px!important;
+        font-weight: 500!important;
+    }
+    .button-wrapper{
+        margin-bottom: 30px;
+        padding-left: 0!important;
+    }
+    .main-service-section{
+        margin-top: 150px;
+    }
+    .margin-rw{
+        margin: 93px 0px 0 0;
+    }
+    .padding-cont1{
+        padding: 0;
+    }
+    .image-cont{
+        padding-top: 30px;
+    }
+    .active-menu .logo{
+        width: 120px;
+    }
+    .padding-cont{
+        padding: 0;
+    }
+
+    .main_heading{
+        padding: 30px 0 30px 0;
+    }
+    /*case studies portfolio card*/
+    .portfoliocard{
+        background-size: contain;
+    }
+    .hoverCard{
+        opacity: 1!important;
+    }
+    .formPercentage{
+        width: 100%;
+    }
+        /*responsive styling for treatment page starts*/
+        .treatment-first-section .main-col{
+            flex-direction: column;
+        }
+        .treatment-first-section .content-div{
+            width: 100%;
+        }
+        .treatment-first-section .main-col h1{
+            font-size: 30px;
+        }
+        .treatment-first-section .main-col p {
+            font-size: 18px;
+        }
+        .first-section-sign{
+            flex-direction: column;
+        }
+        .first-section-sign p{
+            padding:20px 0px
+        }
+        /*main-section-images*/
+
+        .anim-image-1,.anim-image-2,.anim-image-3{
+            width: 100%;
+            left:0;
+            top:0
+        }
+        .anim-image-3{
+            margin-top:0
+        }
+        .anim-image-2{
+            margin-top: -110px;
+        }
+        /*main-section-images*/
+        .treat-knowledge-section .heading-col h1{
+            font-size: 30px;
+        }
+        .guess-div h1{
+            font-size: 30px;
+        }
+        .sign-btn-2{
+            width: 100%;
+            font-size: 15px;
+        }
+        .audit-section .d-f{
+            flex-direction: column;
+        }
+        .audit-img{
+            min-height: 220px;
+        }
+        .audit-section .heading-col h1 {
+            font-size: 30px;
+        }
+        .audit-list-side p {
+            font-size: 18px;
+        }
+        .audit-list-side ul{
+            margin-right:0;
+            margin-top:0;
+
+        }
+        .audit-list-side ul li{
+            font-size:16px;
+            line-height: unset;
+        }
+        .audit-list-side ul li:first-child{
+            font-size:18px
+        }
+        .audit-btn{
+            width: 100%;
+            margin-top:0;
+            font-size: 14px;
+        }
+        .audit-section .heading-col {
+            padding: 10px 0px;
+        }
+        .knowledge-card{
+            margin:4px 0px;
+            min-height:260px
+        }
+    .goto-link{
+        margin-top:30px;
+    }
+        /*styling for treatment page ends*/
+}
+@media (min-width: 575px) and (max-width: 684px){
+    #overheadPage .gallerySlider, #innovationPage .gallerySlider {
+        display: none;
+    }
+    /*header*/
+    .none{
+        display: none;
+    }
+    .disp-rw{
+        display: flex;
+    }
+    .toggleButton{
+        display: block;
+        align-self: center;
+        width: 50%;
+        padding: 35px 0px 10px 80px;
+        margin-left: 155px;
+    }
+    .toggle-pos{
+        width: 20px;
+        position: relative;
+    }
+    .toggle-pos:hover .hovTogle{
+        opacity: 1;
+    }
+    .img-togg{
+        width: 100%;
+    }
+    .toggle-dropDown{
+        position: absolute;
+        bottom: 0;
+        top: 65px;
+        right: 0;
+        left: -11px;
+        bottom: 0;
+    }
+    .red-bg-tog{
+        background-color: #eaedf3;
+    }
+    .togle-list{
+        background: black;
+        list-style: none;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 25px;
+    }
+    .togle-list li{
+        padding: 10px;
+        margin-bottom: 29px;
+        color: white;
+
+    }
+    .togle-list li a{
+        color: white;
+    }
+    .togle-list li a:active, .togle-list li a:hover{
+        color: #c14343;
+    }
+    .navbar-header{
+        width: 50%;
+    }
+    /*Hompage Starts*/
+    .heading-upper h1 {
+        line-height: 1.5!important;
+        font-size: 22px!important;
+        padding-top: 60px;
+    }
+    .heading-upper p {
+        font-size: 16px!important;
+        margin-bottom: 0!important;
+        line-height: 1.5!important;
+    }
+    .headerBtn {
+        padding: 1px 5px!important;
+        font-size: 10px!important;
+        font-weight: 500!important;
+        background-color: transparent;
+    }
+    .alpha-squad-img {
+        padding-top: 30px;
+    }
+    .main-heading-container {
+        padding-top: 0;
+    }
+    .toyota-logo-bg {
+        background-size: 30%;
+    }
+    .diagSection {
+        display: none;
+    }
+    .industryLeaders p {
+        font-size: 12px;
+    }
+    .serviceSection .serviceHeader p {
+        font-size: 12px;
+    }
+    .serviceSection .serviceHeader h1 {
+        font-size: 14px!important;
+    }
+
+    .serviceText {
+        min-height: 43px;
+        font-size: 11px;
+        margin-bottom: 0;
+    }
+    .serviceHead {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+    .serviceMore h6 {
+        font-size: 9px;
+    }
+    .svg-background {
+        background-size: 31%;
+    }
+    .serviceSlider {
+        margin-bottom: 20px;
+    }
+    .serviceSvg{
+        width: 50px;
+        height: 35px;
+    }
+    .sectionWhy {
+        padding-top: 70px;
+    }
+    .whySubHead {
+        font-size: 14px!important;
+        line-height: 20px!important;
+    }
+    .whyHeading {
+        font-size: 12px;
+        line-height: 0px;
+    }
+    .blogTitle h4 {
+        font-size: 12px;
+    }
+    .blogHead {
+        font-size: 24px!important;
+    }
+    .blogContainer .container .col-md-4 {
+        width: auto;
+        padding: 30px;
+        margin: 20px 34px;
+    }
+    .postArrow {
+        padding-top: 75px;
+    }
+    .blogPostHead {
+        font-size: 15px;
+        margin-bottom: 12px;
+    }
+    .blackPost h4 {
+        font-size: 13px;
+    }
+    .postHeading {
+        margin-top: 31px;
+    }
+    .blackPost h1 {
+        font-size: 17px;
+    }
+    .blogCard {
+        height: 295px;
+    }
+    .postAvatar {
+        width: 45px;
+        height: 45px;
+    }
+    .blogPostTitleCon {
+        margin: 12px 0 5px 0;
+        font-size: 14px;
+    }
+    .blogPostDate {
+        font-size: 12px;
+    }
+    .blogPostTitle {
+        font-size: 15px;
+        line-height: 25px;
+        margin-top: 22px;
+        margin-bottom: 19px;
+    }
+    .blogContainer .container {
+        margin-top: 27px;
+        display: block;
+    }
+    .blogPostSubTitle {
+        line-height: 22px;
+        font-size: 11px;
+    }
+    .whyHead {
+        margin-top: 19px;
+    }
+    .rightForm {
+        padding: 9px;
+        position: unset;
+    }
+    .formCard {
+        margin-bottom: 20px;
+    }
+    .formPercentageText h4 {
+        font-size: 11px;
+    }
+    .formPercentageText p {
+        font-size: 12px;
+    }
+    .rightForm .form-control {
+        height: 42px;
+        font-size: 11px;
+    }
+    .formDropdown {
+        top: 13px;
+    }
+    .positionRow {
+        margin-left: unset;
+        width: 100% !important;
+    }
+    .positionRow1 {
+        margin-right: unset;
+        width: 100%  !important;
+    }
+    .p-0{
+        padding-left: 0 !important;
+        padding-right:0 !important;
+
+    }
+    .p-1{
+        margin-bottom: 15px;
+    }
+    .formBtn {
+        padding: 12px 12px;
+        font-size: 13px;
+        margin-top: 15px;
+    }
+    .largeArea .col-sm-12 .form-control {
+        height: 77px;
+    }
+    .formSquareCon {
+        margin-bottom: 0px;
+    }
+    .infoBox {
+        padding: 9px 21px;
+        margin-bottom: 0px;
+    }
+    .infoBoxHead {
+        font-size: 16px;
+    }
+    .infoBoxDesc {
+        font-size: 15px;
+    }
+    .mobileSlider{
+        display: block;
+    }
+    .meraContainer .row .col-md-4 {
+        width: auto;
+    }
+    .whyInner {
+        margin: 44px 0px 14px 4px;
+    }
+    .whysubHeading {
+        margin-top: 29px;
+        margin-bottom: 16px;
+        font-size: 17px;
+    }
+    .whyDescription {
+        font-size: 12px;
+        width: auto;
+    }
+    .whyCard {
+        margin: 0 25px;
+        height: auto;
+        padding-bottom: 15px;
+    }
+    .carousel-control.right {
+        right: 3% !important;
+    }
+    .carousel-control.left {
+        left: -2%;
+    }
+    .whyInner>svg{
+        height:40px;
+    }
+    .serviceSection {
+        background-image: none;
+    }
+    .emptyDiv {
+        height: 50px;
+    }
+    .testimonaial-bg-svg{
+        min-height: 400px;
+        margin: 30px 0px;
+    }
+    .bgImg-shape{
+        min-height: 200px;
+    }
+    .flex-form {
+        padding: 0;
+    }
+    /*about v1 page*/
+
+    .about-main-text{
+        padding-left:0;
+    }
+    .about-main-text h1{
+        font-size: 22px;
+        line-height: 40px;
+    }
+    .about-detail-heading h5{
+        font-size: 22px;
+    }
+    .about-long-detail{
+        font-size: 20px;
+    }
+    .custom-giving-container h1{
+        font-size: 22px;
+    }
+    .custom-giving-container p{
+        font-size: 20px;
+    }
+    .giving-row .col-md-4{
+        padding: unset;
+    }
+    .founders-heading{
+        padding-top: 55px;
+        display:block
+    }
+    .founders-heading h5{
+        font-size: 22px;
+    }
+    .founder-long-detail{
+        font-size: 20px;
+    }
+    .dis-main-heading p{
+        font-size: 22px;
+    }
+    /*blog details*/
+    #homePageInner .heading-top{
+        font-size: 22px;
+    }
+    #homePageInner .communicate h1{
+        font-size: 22px;
+    }
+    /*single blogs*/
+
+    .post-cards p{
+        font-size:18px;
+    }
+    .categories-filter h1{
+        font-size: 22px;
+    }
+    .categories-filter .categories-row ul{
+        display: block;
+    }
+    /*portfolio-detail*/
+    .title{
+        font-size: 22px;
+        line-height: 40px;
+    }
+    .inner-info2{
+        padding-left:0;
+    }
+    #productPage .content_area h1{
+        font-size:22px;
+        width: 100%;
+        padding-left:0;
+        padding: 0px 17px;
+    }
+    #productPage .content_area p{
+        padding-left: 0;
+        width: 100%;
+        padding: 0px 17px;
+        font-size:20px
+    }
+    /*Mobile App development Responsive here*/
+    .mobile-header-background >div {
+        padding-bottom: 75px;
+    }
+    .mobile-content-container{
+        padding: 5px 20px !important;
+    }
+    .mobile-content .col-md-6 h5 {
+        font-size: 34px;
+        line-height: 50px;
+    }
+    .mobile-content .col-md-6 h6 {
+        font-size: 22px;
+        line-height: 33px;
+    }
+    .mobile-content .col-md-6 p {
+        font-size: 22px;
+        line-height: 33px;
+    }
+    .trans-card-section {
+        padding-top: 75px;
+    }
+    .trans-heading h1 {
+        font-size: 34px;
+        line-height: 35px;
+    }
+    .trans-heading p {
+        font-size: 22px;
+        line-height: 35px;
+    }
+    .trans-card-column {
+        padding-top: 75px;
+    }
+    .tranp-card {
+        margin-bottom: 90px;
+        width: 100%;
+        text-align: center;
+    }
+    .tranp-card h6 {
+        font-size: 22px;
+        line-height: 30px;
+        min-height: 50px;
+    }
+    .tranp-card p {
+        font-size: 20px;
+        padding-bottom: 10px;
+        width: 80%;
+        margin: 0 auto;
+    }
+    .number-card {
+        margin: 15px 0px;
+    }
+    .mobile-header-background h1 {
+        font-size: 42px;
+        line-height: 50px;
+        padding-top: 20px;
+    }
+    .mobile-header-background {
+        min-height: 565px;
+        margin-top: 80px;
+    }
+
+    /*Web-App development responsive style here*/
+    .web-app-header {
+        min-height: 565px;
+        margin-top: 80px;
+    }
+    .web-app-line hr {
+        width: 75px;
+        margin-left: 30px;
+        margin-right: 20px;
+    }
+    .web-app-line h4 {
+        font-size: 26px;
+        line-height: 40px;
+        padding: 0px 10px;
+    }
+    .web-app-content .col-md-12 div h1 {
+        font-size: 36px;
+        line-height: 50px;
+    }
+    .web-app-content .col-md-12 div h4 {
+        font-size: 22px;
+        line-height: 33px;
+    }
+    .web-app-content .col-md-12 div p {
+        font-size: 22px;
+        line-height: 33px;
+    }
+    .key-section h1 {
+        padding: 0px 10px 80px 10px;
+    }
+    .product-header{
+        padding-top: 150px;
+    }
+    .title{
+        font-size: 22px;
+        line-height: 40px;
+        padding-left: 0;
+        width: 100%;
+    }
+    .client-info{
+        padding:0;
+        flex-direction: column;
+    }
+    .header-image-background{
+        min-height: 479px;
+    }
+    .sticky-menu{
+        display: none;
+    }
+    #productPage .section .number{
+        left: 18px;
+        top: -5px;
+    }
+    .headerBtn {
+        padding: 10px 23px!important;
+        font-size: 16px!important;
+        font-weight: 500!important;
+    }
+    .button-wrapper{
+        margin-bottom: 30px;
+        padding-left: 0!important;
+    }
+    .main-service-section{
+        margin-top: 150px;
+    }
+    .margin-rw{
+        margin: 93px 0px 0 0;
+    }
+    .padding-cont1{
+        padding: 0;
+    }
+    .image-cont{
+        padding-top: 30px;
+    }
+    .active-menu .logo{
+        width: 120px;
+    }
+    .padding-cont{
+        padding: 0;
+    }
+    /*case studies portfolio card*/
+    .portfoliocard{
+        background-size: contain;
+    }
+    .hoverCard{
+        opacity: 1!important;
+    }
+    .formPercentage{
+        width: 100%;
+    }
+    /*responsive styling for treatment page starts*/
+    .treatment-first-section .main-col{
+        flex-direction: column;
+    }
+    .treatment-first-section .content-div{
+        width: 100%;
+    }
+    .treatment-first-section .main-col h1{
+        font-size: 30px;
+    }
+    .treatment-first-section .main-col p {
+        font-size: 18px;
+    }
+    .first-section-sign{
+        flex-direction: column;
+    }
+    .first-section-sign p{
+        padding:20px 0px
+    }
+    /*main-section-images*/
+
+    .anim-image-1,.anim-image-2,.anim-image-3{
+        width: 100%;
+        left:0;
+        top:0
+    }
+    .anim-image-3{
+        margin-top:0
+    }
+    .anim-image-2{
+        margin-top: -110px;
+    }
+    /*main-section-images*/
+    .treat-knowledge-section .heading-col h1{
+        font-size: 30px;
+    }
+    .guess-div h1{
+        font-size: 30px;
+    }
+    .sign-btn-2{
+        width: 100%;
+        font-size: 15px;
+    }
+    .audit-section .d-f{
+        flex-direction: column;
+    }
+    .audit-img{
+        min-height: 220px;
+    }
+    .audit-section .heading-col h1 {
+        font-size: 30px;
+    }
+    .audit-list-side p {
+        font-size: 18px;
+    }
+    .audit-list-side ul{
+        margin-right:0;
+        margin-top:0;
+
+    }
+    .audit-list-side ul li{
+        font-size:16px;
+        line-height: unset;
+    }
+    .audit-list-side ul li:first-child{
+        font-size:18px
+    }
+    .audit-btn{
+        width: 100%;
+        margin-top:0;
+        font-size: 14px;
+    }
+    .audit-section .heading-col {
+        padding: 10px 0px;
+    }
+    .knowledge-card{
+        margin:4px 0px;
+        min-height:260px
+    }
+    .goto-link{
+        margin-top:30px;
+    }
+    .goto-link{
+        margin-top:30px;
+    }
+    /*styling for treatment page ends*/
+}
+@media (min-width: 685px) and (max-width: 767px){
+    #overheadPage .gallerySlider, #innovationPage .gallerySlider {
+        display: none;
+    }
+    /*header*/
+    .none{
+        display: none;
+    }
+    .disp-rw{
+        display: flex;
+    }
+    .toggleButton{
+        display: block;
+        align-self: center;
+        width: 50%;
+        padding: 35px 0px 10px 80px;
+        margin-left: 155px;
+    }
+    .toggle-pos{
+        width: 20px;
+        position: relative;
+    }
+    .toggle-pos:hover .hovTogle{
+        opacity: 1;
+    }
+    .img-togg{
+        width: 100%;
+    }
+    .toggle-dropDown{
+        position: absolute;
+        bottom: 0;
+        top: 65px;
+        right: 0;
+        left: -11px;
+        bottom: 0;
+    }
+    .red-bg-tog{
+        background-color: #eaedf3;
+    }
+    .togle-list{
+        background: black;
+        list-style: none;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 25px;
+    }
+    .togle-list li{
+        padding: 10px;
+        margin-bottom: 29px;
+        color: white;
+
+    }
+    .togle-list li a{
+        color: white;
+    }
+    .togle-list li a:active, .togle-list li a:hover{
+        color: #c14343;
+    }
+    .navbar-header{
+        width: 50%;
+    }
+    /*Hompage Starts*/
+    .heading-upper h1 {
+        line-height: 1.5!important;
+        font-size: 22px!important;
+        padding-top: 60px;
+    }
+    .heading-upper p {
+        font-size: 16px!important;
+        margin-bottom: 0!important;
+        line-height: 1.5!important;
+    }
+    .headerBtn {
+        padding: 1px 5px!important;
+        font-size: 10px!important;
+        font-weight: 500!important;
+        background-color: transparent;
+    }
+    .alpha-squad-img {
+        padding-top: 30px;
+    }
+    .main-heading-container {
+        padding-top: 0;
+    }
+    .toyota-logo-bg {
+        background-size: 30%;
+    }
+    .diagSection {
+        display: none;
+    }
+    .industryLeaders p {
+        font-size: 12px;
+    }
+    .serviceSection .serviceHeader p {
+        font-size: 12px;
+    }
+    .serviceSection .serviceHeader h1 {
+        font-size: 14px!important;
+    }
+
+    .serviceText {
+        min-height: 43px;
+        font-size: 11px;
+        margin-bottom: 0;
+    }
+    .serviceHead {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+    .serviceMore h6 {
+        font-size: 9px;
+    }
+    .svg-background {
+        background-size: 31%;
+    }
+    .serviceSlider {
+        margin-bottom: 20px;
+    }
+    .serviceSvg{
+        width: 50px;
+        height: 35px;
+    }
+    .sectionWhy {
+        padding-top: 70px;
+    }
+    .whySubHead {
+        font-size: 14px!important;
+        line-height: 20px!important;
+    }
+    .whyHeading {
+        font-size: 12px;
+        line-height: 0px;
+    }
+    .blogTitle h4 {
+        font-size: 12px;
+    }
+    .blogHead {
+        font-size: 24px!important;
+    }
+    .blogContainer .container .col-md-4 {
+        width: auto;
+        padding: 30px;
+        margin: 20px 34px;
+    }
+    .postArrow {
+        padding-top: 75px;
+    }
+    .blogPostHead {
+        font-size: 15px;
+        margin-bottom: 12px;
+    }
+    .blackPost h4 {
+        font-size: 13px;
+    }
+    .postHeading {
+        margin-top: 31px;
+    }
+    .blackPost h1 {
+        font-size: 17px;
+    }
+    .blogCard {
+        height: 295px;
+    }
+    .postAvatar {
+        width: 45px;
+        height: 45px;
+    }
+    .blogPostTitleCon {
+        margin: 12px 0 5px 0;
+        font-size: 14px;
+    }
+    .blogPostDate {
+        font-size: 12px;
+    }
+    .blogPostTitle {
+        font-size: 15px;
+        line-height: 25px;
+        margin-top: 22px;
+        margin-bottom: 19px;
+    }
+    .blogContainer .container {
+        margin-top: 27px;
+        display: block;
+    }
+    .blogPostSubTitle {
+        line-height: 22px;
+        font-size: 11px;
+    }
+    .whyHead {
+        margin-top: 19px;
+    }
+    .rightForm {
+        padding: 9px;
+        position: unset;
+    }
+    .formCard {
+        margin-bottom: 20px;
+    }
+    .formPercentageText h4 {
+        font-size: 11px;
+    }
+    .formPercentageText p {
+        font-size: 12px;
+    }
+    .rightForm .form-control {
+        height: 42px;
+        font-size: 11px;
+    }
+    .formDropdown {
+        top: 13px;
+    }
+    .positionRow {
+        margin-left: unset;
+        width: 100% !important;
+    }
+    .positionRow1 {
+        margin-right: unset;
+        width: 100%  !important;
+    }
+    .p-0{
+        padding-left: 0 !important;
+        padding-right:0 !important;
+
+    }
+    .p-1{
+        margin-bottom: 15px;
+    }
+    .formBtn {
+        padding: 12px 12px;
+        font-size: 13px;
+        margin-top: 15px;
+    }
+    .largeArea .col-sm-12 .form-control {
+        height: 77px;
+    }
+    .formSquareCon {
+        margin-bottom: 0;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+    .header-blog{
+        height:47vh;
+    }
+    .infoBox {
+        padding: 0;
+        margin-bottom: 0;
+        min-width: 142px;
+    }
+    .infoBoxHead {
+        font-size: 16px;
+    }
+    .infoBoxDesc {
+        font-size: 15px;
+    }
+    .mobileSlider{
+        display: block;
+    }
+    .meraContainer .row .col-md-4 {
+        width: auto;
+    }
+    .whyInner {
+        margin: 44px 0px 14px 4px;
+    }
+    .whysubHeading {
+        margin-top: 29px;
+        margin-bottom: 16px;
+        font-size: 17px;
+    }
+    .whyDescription {
+        font-size: 12px;
+        width: auto;
+    }
+    .whyCard {
+        margin: 0 25px;
+        height: auto;
+        padding-bottom: 15px;
+    }
+    .carousel-control.right {
+        right: 3% !important;
+    }
+    .carousel-control.left {
+        left: -2%;
+    }
+    .whyInner>svg{
+        height:40px;
+    }
+    .serviceSection {
+        background-image: none;
+    }
+    .emptyDiv {
+        height: 50px;
+    }
+    .testimonial-txt .para {
+        padding: 60px 0px 30px 0px;
+    }
+    .testimonaial-bg-svg{
+        min-height: 400px;
+        margin: 30px 0px;
+    }
+    .bgImg-shape{
+        min-height: 200px;
+    }
+    .flex-form {
+        padding: 0;
+    }
+    /*about v1 page*/
+
+    .about-main-text{
+        padding-left:0;
+    }
+    .about-main-text h1{
+        font-size: 22px;
+        line-height: 40px;
+    }
+    .about-detail-heading h5{
+        font-size: 22px;
+    }
+    .about-long-detail{
+        font-size: 20px;
+    }
+    .custom-giving-container h1{
+        font-size: 22px;
+    }
+    .custom-giving-container p{
+        font-size: 20px;
+    }
+    .giving-row .col-md-4{
+        padding: unset;
+    }
+    .founders-heading{
+        padding-top: 55px;
+        display:block
+    }
+    .founders-heading h5{
+        font-size: 22px;
+    }
+    .founder-long-detail{
+        font-size: 20px;
+    }
+    .dis-main-heading p{
+        font-size: 22px;
+    }
+    /*blog details*/
+    #homePageInner .heading-top{
+        font-size: 22px;
+    }
+    #homePageInner .communicate h1{
+        font-size: 22px;
+    }
+    /*single blogs*/
+
+    .post-cards p{
+        font-size:18px;
+    }
+    .categories-filter h1{
+        font-size: 22px;
+    }
+    .categories-filter .categories-row ul{
+        display: block;
+    }
+    /*portfolio-detail*/
+    .title{
+        font-size: 22px;
+        line-height: 40px;
+    }
+    .inner-info2{
+        padding-left:0;
+    }
+    #productPage .content_area h1{
+        font-size:22px;
+        width: 100%;
+
+        padding: 0px 17px;
+    }
+    #productPage .content_area p{
+        width: 100%;
+        padding: 0px 17px;
+        font-size:20px
+    }
+    /*Mobile App development Responsive here*/
+    .mobile-header-background >div {
+        padding-bottom: 75px;
+    }
+    .tranp-card {
+        margin-bottom: 90px;
+        width: 100%;
+        text-align: center;
+    }
+    .mobile-content-container{
+        padding: 5px 20px !important;
+    }
+    .mobile-content .col-md-6 h5 {
+        font-size: 38px;
+        line-height: 50px;
+    }
+    .mobile-content .col-md-6 h6 {
+        font-size: 24px;
+        line-height: 38px;
+    }
+    .mobile-content .col-md-6 p {
+        font-size: 24px;
+        line-height: 38px;
+    }
+    .trans-card-section {
+        padding-top: 75px;
+    }
+    .trans-heading h1 {
+        font-size: 34px;
+        line-height: 35px;
+    }
+    .trans-heading p {
+        font-size: 22px;
+        line-height: 35px;
+    }
+    .trans-card-column {
+        padding-top: 75px;
+    }
+    .tranp-card h6 {
+        font-size: 24px;
+        line-height: 30px;
+        min-height: 60px;
+    }
+    .tranp-card p {
+        font-size: 21px;
+        padding-bottom: 10px;
+        width: 80%;
+        margin: 0 auto;
+    }
+    .number-card {
+        margin: 15px 0px;
+    }
+    .mobile-header-background h1 {
+        font-size: 42px;
+        line-height: 50px;
+        padding-top: 20px;
+    }
+    .mobile-header-background {
+        min-height: 565px;
+        margin-top: 80px;
+    }
+    .mobile-content {
+        padding: 100px 25px 20px 20px;
+    }
+    /*Web-App development responsive style here*/
+    .web-app-header {
+        min-height: 565px;
+        margin-top: 80px;
+    }
+    .web-app-line hr {
+        width: 75px;
+        margin-left: 30px;
+        margin-right: 20px;
+    }
+    .web-app-line h4 {
+        font-size: 30px;
+        line-height: 42px;
+        padding: 0px 20px;
+        min-width: 590px;
+    }
+    .web-app-content .col-md-12 div h1 {
+        font-size: 36px;
+        line-height: 50px;
+    }
+    .web-app-content .col-md-12 div h4 {
+        font-size: 22px;
+        line-height: 33px;
+    }
+    .web-app-content .col-md-12 div p {
+        font-size: 22px;
+        line-height: 33px;
+    }
+    .key-section h1 {
+        padding: 0px 10px 80px 10px;
+    }
+    .product-header{
+        padding-top: 150px;
+    }
+    .title{
+        font-size: 22px;
+        line-height: 40px;
+        padding-left: 0;
+        width: 100%;
+    }
+    .client-info{
+        padding:0;
+        flex-direction: column;
+    }
+    .header-image-background{
+        min-height: 479px;
+    }
+    .sticky-menu{
+        display: none;
+    }
+    #productPage .section .number{
+        left: 18px;
+        top: -5px;
+    }
+    .headerBtn {
+        padding: 10px 23px!important;
+        font-size: 16px!important;
+        font-weight: 500!important;
+    }
+    .button-wrapper{
+        margin-bottom: 30px;
+        padding-left: 0!important;
+    }
+    .main-service-section{
+        margin-top: 150px;
+    }
+    .margin-rw{
+        margin: 93px 0px 0 0;
+    }
+    .padding-cont1{
+        padding: 0;
+    }
+    .image-cont{
+        padding-top: 30px;
+    }
+    .active-menu .logo{
+        width: 120px;
+    }
+    .padding-cont{
+        padding: 0;
+    }
+    /*case studies portfolio card*/
+    .portfoliocard{
+        background-size: contain;
+    }
+    .hoverCard{
+        opacity: 1!important;
+    }
+    .formPercentage{
+        width: 100%;
+    }
+    /*responsive styling for treatment page starts*/
+    .treatment-first-section .main-col{
+        flex-direction: column;
+    }
+    .treatment-first-section .content-div{
+        width: 100%;
+    }
+    .treatment-first-section .main-col h1{
+        font-size: 30px;
+    }
+    .treatment-first-section .main-col p {
+        font-size: 18px;
+    }
+    .first-section-sign{
+        flex-direction: column;
+    }
+    .first-section-sign p{
+        padding:20px 0px
+    }
+    /*main-section-images*/
+
+    .anim-image-1,.anim-image-2,.anim-image-3{
+        width: 100%;
+        left:0;
+        top:0
+    }
+    .anim-image-3{
+        margin-top:0
+    }
+    .anim-image-2{
+        margin-top: -110px;
+    }
+    /*main-section-images*/
+    .treat-knowledge-section .heading-col h1{
+        font-size: 30px;
+    }
+    .guess-div h1{
+        font-size: 30px;
+    }
+    .sign-btn-2{
+        width: 100%;
+        font-size: 15px;
+    }
+    .audit-section .d-f{
+        flex-direction: column;
+    }
+    .audit-img{
+        min-height: 220px;
+    }
+    .audit-section .heading-col h1 {
+        font-size: 30px;
+    }
+    .audit-list-side p {
+        font-size: 18px;
+    }
+    .audit-list-side ul{
+        margin-right:0;
+        margin-top:0;
+
+    }
+    .audit-list-side ul li{
+        font-size:16px;
+        line-height: unset;
+    }
+    .audit-list-side ul li:first-child{
+        font-size:18px
+    }
+    .audit-btn{
+        width: 100%;
+        margin-top:0;
+        font-size: 14px;
+    }
+    .audit-section .heading-col {
+        padding: 10px 0px;
+    }
+    .knowledge-card{
+        margin:4px 0px;
+        min-height:260px
+    }
+    .goto-link{
+        margin-top:30px;
+    }
+    /*styling for treatment page ends*/
+}
+@media (min-width: 768px) and (max-width: 991px){
+    #overheadPage .gallerySlider, #innovationPage .gallerySlider {
+        display: none;
+    }
+    /*header*/
+    .navbar-nav li {
+        padding: 40px 5px;
+        font-size: 10px;
+    }
+    /*innovation*/
+    #innovationPage .card .headItemline {
+        padding-right: 12px;
+    }
+    #innovationPage .card {
+        min-width: 185px;
+    }
+    /*Hompage Starts*/
+    .toyota-logo {
+        width: 190px;
+    }
+    .flex-form{
+        padding: 0;
+    }
+    .heading-upper h1 {
+        line-height: 1.5!important;
+        font-size: 22px!important;
+        padding-top: 60px;
+    }
+    .top-header{
+        padding-top: 110px;
+    }
+    .heading-upper p {
+        font-size: 16px!important;
+        margin-bottom: 0!important;
+        line-height: 1.5!important;
+    }
+    .headerBtn {
+        padding: 1px 5px!important;
+        font-size: 10px!important;
+        font-weight: 500!important;
+        background-color: transparent;
+    }
+    .alpha-squad-img {
+        padding-top: 30px;
+    }
+    .main-heading-container {
+        padding-top: 0;
+    }
+    .toyota-logo-bg {
+        background-size: 30%;
+    }
+    .diagSection, .case-study-slider {
+        display: none;
+    }
+    .industryLeaders p {
+        font-size: 12px;
+    }
+    .serviceSection .serviceHeader p {
+        font-size: 12px;
+    }
+    .serviceSection .serviceHeader h1 {
+        font-size: 14px!important;
+    }
+
+    .serviceText {
+        min-height: 43px;
+        font-size: 11px;
+        margin-bottom: 0;
+    }
+    .serviceHead {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+    .serviceMore h6 {
+        font-size: 9px;
+    }
+    .svg-background {
+        background-size: 31%;
+    }
+    .serviceSlider {
+        margin-bottom: 20px;
+    }
+    .serviceSvg{
+        width: 50px;
+        height: 35px;
+    }
+    .whySubHead {
+        font-size: 14px!important;
+        line-height: 20px!important;
+    }
+    .whyHeading {
+        font-size: 12px;
+        line-height: 0px;
+    }
+    .blogTitle h4 {
+        font-size: 12px;
+    }
+    .blogHead {
+        font-size: 24px!important;
+    }
+    .blogContainer .container .col-md-4 {
+        width: auto;
+        padding: 30px;
+        margin: 20px 10px;
+    }
+    .postArrow {
+        padding-top: 75px;
+    }
+    .blogPostHead {
+        font-size: 15px;
+        margin-bottom: 12px;
+    }
+    .blackPost h4 {
+        font-size: 13px;
+    }
+    .postHeading {
+        margin-top: 31px;
+    }
+    .blackPost h1 {
+        font-size: 17px;
+    }
+    .blogCard {
+        height: 295px;
+    }
+    .postAvatar {
+        width: 45px;
+        height: 45px;
+    }
+    .blogPostTitleCon {
+        margin: 12px 0 5px 0;
+        font-size: 14px;
+    }
+    .blogPostDate {
+        font-size: 12px;
+    }
+    .blogPostTitle {
+        font-size: 15px;
+        line-height: 25px;
+        margin-top: 22px;
+        margin-bottom: 19px;
+    }
+    .blogContainer .container {
+        margin-top: 27px;
+
+    }
+    .blogPostSubTitle {
+        line-height: 22px;
+        font-size: 11px;
+    }
+    .whyHead {
+        margin-top: 19px;
+    }
+    .rightForm {
+        padding: 9px;
+        position: unset;
+    }
+    .formCard {
+        margin-bottom: 20px;
+    }
+    .formPercentageText h4 {
+        font-size: 11px;
+    }
+    .formPercentageText p {
+        font-size: 12px;
+    }
+    .rightForm .form-control {
+        height: 42px;
+        font-size: 11px;
+    }
+    .formDropdown {
+        top: 13px;
+    }
+    .positionRow {
+        margin-left: unset;
+        width: 100% !important;
+    }
+    .positionRow1 {
+        margin-right: unset;
+        width: 100%  !important;
+    }
+    .p-0{
+        padding-left: 0 !important;
+        padding-right:0 !important;
+
+    }
+    .p-1{
+        margin-bottom: 15px;
+    }
+    .formBtn {
+        padding: 12px 12px;
+        font-size: 13px;
+        margin-top: 15px;
+    }
+    .largeArea .col-sm-12 .form-control {
+        height: 77px;
+    }
+    .formSquareCon {
+        margin-bottom: 0px;
+        flex-wrap: nowrap;
+        padding-bottom: 50px;
+    }
+    .header-blog{
+        height: auto;
+    }
+    .infoBox {
+        padding: 9px 21px;
+        margin-bottom: 0px;
+    }
+    .infoBoxHead {
+        font-size: 16px;
+    }
+    .infoBoxDesc {
+        font-size: 15px;
+    }
+    .mobileSlider{
+        display: block;
+    }
+    .meraContainer .row .col-md-4 {
+        width: auto;
+        margin: 0;
+    }
+    .testimonial-txt .para {
+        padding: 60px 0px 30px 0px;
+    }
+    .whyInner {
+        margin: 44px 0px 14px 4px;
+    }
+    .whysubHeading {
+        margin-top: 29px;
+        margin-bottom: 16px;
+        font-size: 17px;
+    }
+    .whyDescription {
+        font-size: 12px;
+        width: auto;
+    }
+    .whyCard {
+        margin: 0 25px;
+        height: auto;
+        padding-bottom: 15px;
+    }
+    .carousel-control.right {
+        right: 3% !important;
+    }
+    .carousel-control.left {
+        left: -2%;
+    }
+    .whyInner>svg{
+        height:40px;
+    }
+    .serviceSection {
+        background-image: none;
+    }
+    .emptyDiv {
+        height: 50px;
+    }
+    /*about v1 page*/
+
+    .about-main-text{
+        padding-left:0;
+    }
+    .about-main-text h1{
+        font-size: 22px;
+        line-height: 40px;
+    }
+    .about-detail-heading h5{
+        font-size: 22px;
+    }
+    .about-long-detail{
+        font-size: 20px;
+    }
+    .custom-giving-container h1{
+        font-size: 22px;
+    }
+    .custom-giving-container p{
+        font-size: 20px;
+    }
+    .giving-row .col-md-4{
+        padding: unset;
+    }
+    .founders-heading{
+        padding-top: 55px;
+        display:block
+    }
+    .founders-heading h5{
+        font-size: 22px;
+    }
+    .founder-long-detail{
+        font-size: 20px;
+    }
+    .dis-main-heading p{
+        font-size: 22px;
+    }
+    .discplin-card-img{
+        min-height: 255px;
+    }
+    /*blog details*/
+    #homePageInner .heading-top{
+        font-size: 22px;
+    }
+    #homePageInner .communicate h1{
+        font-size: 22px;
+    }
+    /*single blogs*/
+
+    .post-cards p{
+        font-size:18px;
+    }
+    .categories-filter h1{
+        font-size: 22px;
+    }
+    .categories-filter .categories-row ul{
+        display: block;
+    }
+    /*portfolio-detail*/
+    .title{
+        font-size: 22px;
+        line-height: 40px;
+    }
+    .inner-info2{
+        padding-left:0;
+    }
+    /*Mobile App development Responsive here*/
+    .mobile-header-background >div {
+        padding-bottom: 75px;
+    }
+    .mobile-content-container{
+        padding: 5px 20px !important;
+    }
+    .mobile-content .col-md-6 h5 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .mobile-content .col-md-6 h6 {
+        font-size: 26px;
+        line-height: 35px;
+    }
+    .mobile-content .col-md-6 p {
+        font-size: 26px;
+        line-height: 35px;
+    }
+    .trans-card-section {
+        padding-top: 75px;
+    }
+    .trans-heading h1 {
+        font-size: 40px;
+        line-height: 35px;
+    }
+    .trans-heading p {
+        font-size: 26px;
+        line-height: 35px;
+        padding: 0px 25px;
+    }
+    .trans-card-column {
+        /*padding-top: 75px;*/
+        padding: 75px 20px 10px 20px;
+    }
+    .tranp-card{
+        width: 100%;
+        text-align: center;
+    }
+    .tranp-card h6 {
+        font-size: 24px;
+        line-height: 30px;
+        min-height: 60px;
+    }
+    .tranp-card p {
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+    .number-card {
+        margin: 15px 0px;
+    }
+    .number-card h5{
+        font-size: 38px;
+    }
+    .mobile-header-background h1 {
+        font-size: 42px;
+        line-height: 50px;
+        padding-top: 20px;
+    }
+    .mobile-header-background {
+        min-height: 565px;
+        margin-top: 80px;
+    }
+    .mobile-content {
+        padding: 100px 25px 20px 20px;
+    }
+    /*Web-App development responsive style here*/
+    .web-app-header {
+        min-height: 565px;
+        margin-top: 80px;
+    }
+    .web-app-line hr {
+        width: 75px;
+        margin-left: 30px;
+        margin-right: 20px;
+    }
+    .web-app-line h4 {
+        font-size: 32px;
+        line-height: 50px;
+        padding: 0px 25px;
+        min-width: 730px;
+    }
+    .web-app-content .col-md-12 div h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .web-app-content .col-md-12 div h4 {
+        font-size: 26px;
+        line-height: 35px;
+    }
+    .web-app-content .col-md-12 div p {
+        font-size: 26px;
+        line-height: 35px;
+    }
+    .key-section h1 {
+        padding: 0px 10px 80px 10px;
+    }
+    .tranp-card{
+        min-height: 58px;
+        line-height: normal;
+    }
+    .swithc-btn{
+        font-size: 17px;
+        min-height: 60px;
+        line-height: normal;
+    }
+    .switch-section .col-md-7 p{
+        font-size: 26px;
+        line-height: 35px;
+    }
+    .key-section .key-card p {
+        font-size: 18px;
+    }
+    /*Contact Us page Style    */
+    .resp-sty{
+        flex: 0 0 100%;
+    }
+    /*Contact Us page ends here*/
+    .product-header{
+        padding-top: 150px;
+    }
+    .title{
+        font-size: 22px;
+        line-height: 40px;
+        padding-left: 0;
+        width: 100%;
+    }
+    .client-info{
+        padding:0;
+        flex-direction: column;
+    }
+    .header-image-background{
+        min-height: 479px;
+    }
+    .sticky-menu{
+        display: none;
+    }
+    #productPage .section .number{
+        left: 40px;
+        top: 27px;
+    }
+    .website-link span{
+        padding: 12px 10px;
+    }
+    #productPage .content_area h1{
+        font-size:22px;
+        width: 80%;
+        padding: 0 17px;
+    }
+    #productPage .content_area p{
+        width: 80%;
+        padding: 0 17px;
+        font-size: 20px;
+    }
+    .headerBtn {
+        padding: 10px 23px!important;
+        font-size: 16px!important;
+        font-weight: 500!important;
+    }
+    .button-wrapper{
+        margin-bottom: 30px;
+        padding-left: 0!important;
+    }
+    .main-service-section{
+        margin-top: 150px;
+    }
+    .margin-rw{
+        margin: 93px 0px 0 0;
+    }
+    .padding-cont1{
+        padding: 0;
+    }
+    .image-cont{
+        padding-top: 30px;
+    }
+    .active-menu .logo{
+        width: 120px;
+    }
+    .padding-cont{
+        padding: 0;
+    }
+    .formSquareCon {
+        margin-bottom: 0;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+    .infoBox {
+        padding: 0;
+        margin-bottom: 0;
+        min-width: 142px;
+    }
+    /*case studies portfolio card*/
+    .portfoliocard{
+        background-size: contain;
+    }
+    .hoverCard{
+        opacity: 1!important;
+    }
+    .formPercentage{
+        width: 100%;
+    }
+    /*responsive styling for treatment page starts*/
+
+    .treatment-first-section .content-div{
+        width: 100%;
+    }
+    .treatment-first-section .main-col h1{
+        font-size: 30px;
+    }
+    .treatment-first-section .main-col p {
+        font-size: 18px;
+    }
+    .first-section-sign{
+        flex-direction: column;
+    }
+    .first-section-sign p{
+        padding:20px 0px
+    }
+    /*main-section-images*/
+
+    .anim-image-1,.anim-image-2,.anim-image-3{
+        width: 100%;
+        left:0;
+        top:0
+    }
+    .anim-image-3{
+        margin-top:0
+    }
+    .anim-image-2{
+        margin-top: -110px;
+    }
+    /*main-section-images*/
+    .treat-knowledge-section .heading-col h1{
+        font-size: 30px;
+    }
+    .guess-div h1{
+        font-size: 30px;
+    }
+    .sign-btn-2{
+        width: 100%;
+        font-size: 15px;
+    }
+ .audit-section{
+  height:750px
+ }
+    .audit-img{
+        min-height: 220px;
+    }
+    .audit-section .heading-col h1 {
+        font-size: 30px;
+    }
+    .audit-list-side p {
+        font-size: 18px;
+    }
+    .audit-list-side ul{
+        margin-right:0;
+        margin-top:0;
+
+    }
+    .audit-list-side ul li{
+        font-size:16px;
+        line-height: unset;
+    }
+    .audit-list-side ul li:first-child{
+        font-size:18px
+    }
+    .audit-btn{
+        width: 100%;
+        margin-top:0;
+        font-size: 14px;
+    }
+    .audit-section .heading-col {
+        padding: 10px 0px;
+    }
+    .knowledge-card{
+        margin:4px 0px;
+        min-height:260px
+    }
+    .goto-link{
+        margin-top:30px;
+    }
+    /*styling for treatment page ends*/
+}
+@media (min-width: 992px) and (max-width: 1023px){
+    #overheadPage .gallerySlider, #innovationPage .gallerySlider {
+        display: none;
+    }
+    /*innovation*/
+    #innovationPage .card .headItemline {
+        padding-right: 12px;
+    }
+    #innovationPage .card {
+        min-width: 185px;
+    }
+    /*Hompage Starts*/
+    .navbar-nav li {
+        padding: 40px 5px;
+    }
+    .flex-form{
+        padding: 0;
+    }
+    .heading-upper h1 {
+        line-height: 1.5!important;
+        font-size: 22px!important;
+        padding-top: 60px;
+    }
+    .top-header{
+        padding-top: 110px;
+    }
+    .heading-upper p {
+        font-size: 16px!important;
+        margin-bottom: 0!important;
+        line-height: 1.5!important;
+    }
+    .headerBtn {
+        padding: 1px 5px!important;
+        font-size: 10px!important;
+        font-weight: 500!important;
+        background-color: transparent;
+    }
+    .alpha-squad-img {
+        padding-top: 30px;
+    }
+    .main-heading-container {
+        padding-top: 0;
+    }
+    .toyota-logo-bg {
+        background-size: 30%;
+    }
+    .diagSection, .case-study-slider {
+        display: none;
+    }
+    .industryLeaders p {
+        font-size: 12px;
+    }
+    .serviceSection .serviceHeader p {
+        font-size: 12px;
+    }
+    .serviceSection .serviceHeader h1 {
+        font-size: 14px!important;
+    }
+
+    .serviceText {
+        min-height: 43px;
+        font-size: 11px;
+        margin-bottom: 0;
+    }
+    .serviceHead {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+    .serviceMore h6 {
+        font-size: 9px;
+    }
+    .svg-background {
+        background-size: 31%;
+    }
+    .serviceSlider {
+        margin-bottom: 20px;
+    }
+    .serviceSvg{
+        width: 50px;
+        height: 35px;
+    }
+    .whySubHead {
+        font-size: 14px!important;
+        line-height: 20px!important;
+    }
+    .whyHeading {
+        font-size: 12px;
+        line-height: 0px;
+    }
+    .blogTitle h4 {
+        font-size: 12px;
+    }
+    .blogHead {
+        font-size: 24px!important;
+    }
+    .blogContainer .container .col-md-4 {
+        width: auto;
+        padding: 30px;
+        margin: 20px 34px;
+    }
+    .postArrow {
+        padding-top: 75px;
+    }
+    .blogPostHead {
+        font-size: 15px;
+        margin-bottom: 12px;
+    }
+    .blackPost h4 {
+        font-size: 13px;
+    }
+    .postHeading {
+        margin-top: 31px;
+    }
+    .blackPost h1 {
+        font-size: 17px;
+    }
+    .blogCard {
+        height: 295px;
+    }
+    .postAvatar {
+        width: 45px;
+        height: 45px;
+    }
+    .blogPostTitleCon {
+        margin: 12px 0 5px 0;
+        font-size: 14px;
+    }
+    .blogPostDate {
+        font-size: 12px;
+    }
+    .blogPostTitle {
+        font-size: 15px;
+        line-height: 25px;
+        margin-top: 22px;
+        margin-bottom: 19px;
+    }
+    .blogContainer .container {
+        margin-top: 27px;
+        display: block;
+    }
+    .blogPostSubTitle {
+        line-height: 22px;
+        font-size: 11px;
+    }
+    .whyHead {
+        margin-top: 19px;
+    }
+    .rightForm {
+        padding: 9px;
+        position: unset;
+    }
+    .formCard {
+        margin-bottom: 20px;
+    }
+    .formPercentageText h4 {
+        font-size: 11px;
+    }
+    .formPercentageText p {
+        font-size: 12px;
+    }
+    .rightForm .form-control {
+        height: 42px;
+        font-size: 11px;
+    }
+    .formDropdown {
+        top: 13px;
+    }
+    .positionRow {
+        margin-left: unset;
+        width: 100% !important;
+    }
+    .positionRow1 {
+        margin-right: unset;
+        width: 100%  !important;
+    }
+    .p-0{
+        padding-left: 0 !important;
+        padding-right:0 !important;
+
+    }
+    .p-1{
+        margin-bottom: 15px;
+    }
+    .formBtn {
+        padding: 12px 12px;
+        font-size: 13px;
+        margin-top: 15px;
+    }
+    .largeArea .col-sm-12 .form-control {
+        height: 77px;
+    }
+    .formSquareCon {
+        margin-bottom: 0px;
+    }
+    .infoBox {
+        padding: 9px 21px;
+        margin-bottom: 0px;
+    }
+    .infoBoxHead {
+        font-size: 16px;
+    }
+    .infoBoxDesc {
+        font-size: 15px;
+    }
+    .mobileSlider{
+        display: block;
+    }
+    .meraContainer .row .col-md-4 {
+        width: auto;
+        margin:0;
+    }
+    .whyInner {
+        margin: 44px 0px 14px 4px;
+    }
+    .whysubHeading {
+        margin-top: 29px;
+        margin-bottom: 16px;
+        font-size: 17px;
+    }
+    .whyDescription {
+        font-size: 12px;
+        width: auto;
+    }
+    .whyCard {
+        margin: 0 25px;
+        height: auto;
+        padding-bottom: 15px;
+    }
+    .carousel-control.right {
+        right: 3% !important;
+    }
+    .carousel-control.left {
+        left: -2%;
+    }
+    .whyInner>svg{
+        height:40px;
+    }
+    .serviceSection {
+        background-image: none;
+    }
+    .emptyDiv {
+        height: 50px;
+    }
+    /*about v1 page*/
+
+    .about-main-text{
+        padding-left:0;
+    }
+    .about-main-text h1{
+        font-size: 22px;
+        line-height: 40px;
+    }
+    .about-detail-heading h5{
+        font-size: 22px;
+    }
+    .about-long-detail{
+        font-size: 20px;
+    }
+    .custom-giving-container h1{
+        font-size: 22px;
+    }
+    .custom-giving-container p{
+        font-size: 20px;
+    }
+    .giving-row .col-md-4{
+        padding: unset;
+    }
+    .founders-heading{
+        padding-top: 55px;
+        display:block
+    }
+    .founders-heading h5{
+        font-size: 22px;
+    }
+    .founder-long-detail{
+        font-size: 20px;
+    }
+    .dis-main-heading p{
+        font-size: 22px;
+    }
+    .discplin-card-img{
+        min-height: 255px;
+    }
+    /*blog details*/
+    #homePageInner .heading-top{
+        font-size: 22px;
+    }
+    #homePageInner .communicate h1{
+        font-size: 22px;
+    }
+    /*single blogs*/
+
+    .post-cards p{
+        font-size:18px;
+    }
+    .categories-filter h1{
+        font-size: 22px;
+    }
+    .categories-filter .categories-row ul{
+        display: block;
+    }
+    /*portfolio-detail*/
+    .title{
+        font-size: 22px;
+        line-height: 40px;
+    }
+    .inner-info2{
+        padding-left:0;
+    }
+    #productPage .content_area h1{
+        font-size:22px;
+        width: 100%;
+        padding-left:0;
+        padding: 0px 17px;
+    }
+    #productPage .content_area p{
+        padding-left: 0;
+        width: 100%;
+        padding: 0px 17px;
+        font-size:20px
+    }
+    /*Mobile App development Responsive here*/
+    .mobile-header-background >div {
+        padding-bottom: 75px;
+    }
+    .mobile-content-container{
+        padding: 5px 20px !important;
+    }
+    .mobile-content .col-md-6 h5 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .mobile-content .col-md-6 h6 {
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .mobile-content .col-md-6 p {
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .trans-card-section {
+        padding-top: 75px;
+    }
+    .trans-heading h1 {
+        font-size: 50px;
+        line-height: 35px;
+    }
+    .trans-heading p {
+        font-size: 30px;
+        line-height: 45px;
+        padding: 0px 25px;
+    }
+    .trans-card-column {
+        /*padding-top: 75px;*/
+        padding: 75px 20px 10px 20px;
+    }
+    .tranp-card{
+        width: 100%;
+        text-align: center;
+    }
+    .tranp-card h6 {
+        font-size: 26px;
+        line-height: 35px;
+        min-height: 75px;
+    }
+    .tranp-card p {
+        font-size: 24px;
+        padding-bottom: 20px;
+    }
+    .number-card {
+        margin: 15px 0px;
+    }
+    .number-card h5{
+        font-size: 38px;
+    }
+    .mobile-header-background h1 {
+        font-size: 60px;
+        line-height: 70px;
+        padding-top: 20px;
+    }
+    .mobile-header-background {
+        min-height: 565px;
+        margin-top: 80px;
+    }
+    .mobile-content {
+        padding: 100px 25px 20px 20px;
+    }
+    /*Contact Us page Style    */
+    .resp-sty{
+        flex: 0 0 33%;
+    }
+    /*Contact Us page ends here*/
+    /*Web-App development responsive style here*/
+    .web-app-header {
+        min-height: 750px;
+        margin-top: 80px;
+    }
+    .web-app-line hr {
+        width: 128px;
+        margin-left: 60px;
+        margin-right: 20px;
+    }
+    .web-app-line h4 {
+        font-size: 38px;
+        line-height: 60px;
+        padding: 0px 46px;
+        min-width: 775px;
+    }
+    .web-app-content .col-md-12 div h1 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .web-app-content .col-md-12 div h4 {
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .web-app-content .col-md-12 div p {
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .key-section h1 {
+        padding: 0px 10px 80px 10px;
+    }
+    .swithc-btn{
+        font-size: 22px;
+        min-height: 60px;
+        line-height: normal;
+    }
+    .switch-section .col-md-7 p{
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .key-section .key-card p {
+        font-size: 26px;
+    }
+    /*case studies portfolio card*/
+    .portfoliocard{
+        background-size: contain;
+    }
+    .hoverCard{
+        opacity: 1!important;
+    }
+    .formPercentage{
+        width: 100%;
+    }
+    /*responsive styling for treatment page starts*/
+    .treatment-first-section .main-col{
+        flex-direction: column;
+    }
+    .treatment-first-section .content-div{
+        width: 100%;
+    }
+    .treatment-first-section .main-col h1{
+        font-size: 30px;
+    }
+    .treatment-first-section .main-col p {
+        font-size: 18px;
+    }
+    .first-section-sign{
+        flex-direction: column;
+    }
+    .first-section-sign p{
+        padding:20px 0px
+    }
+    /*main-section-images*/
+
+    .anim-image-1,.anim-image-2,.anim-image-3{
+        width: 100%;
+        left:0;
+        top:0
+    }
+    .anim-image-3{
+        margin-top:0
+    }
+    .anim-image-2{
+        margin-top: -110px;
+    }
+    /*main-section-images*/
+    .treat-knowledge-section .heading-col h1{
+        font-size: 30px;
+    }
+    .guess-div h1{
+        font-size: 30px;
+    }
+    .sign-btn-2{
+        width: 100%;
+        font-size: 15px;
+    }
+    .audit-section .d-f{
+        flex-direction: column;
+    }
+    .audit-img{
+        min-height: 220px;
+    }
+    .audit-section .heading-col h1 {
+        font-size: 30px;
+    }
+    .audit-list-side p {
+        font-size: 18px;
+    }
+    .audit-list-side ul{
+        margin-right:0;
+        margin-top:0;
+
+    }
+    .audit-list-side ul li{
+        font-size:16px;
+        line-height: unset;
+    }
+    .audit-list-side ul li:first-child{
+        font-size:18px
+    }
+    .audit-btn{
+        width: 100%;
+        margin-top:0;
+        font-size: 14px;
+    }
+    .audit-section .heading-col {
+        padding: 10px 0px;
+    }
+    .knowledge-card{
+        margin:4px 0px;
+        min-height:260px
+    }
+    .goto-link{
+        margin-top:30px;
+    }
+    .navbar-nav li{
+     font-size: 11px;
+    }
+    /*styling for treatment page ends*/
+}
+@media (min-width: 1024px) and (max-width: 1199px){
+    #overheadPage .gallerySlider, #innovationPage .gallerySlider {
+        display: none;
+    }
+    /*innovation*/
+    #innovationPage .card .headItemline {
+        padding-right: 12px;
+    }
+    #innovationPage .card {
+        min-width: 185px;
+    }
+    /*Hompage Starts*/
+    .heading-upper h1 {
+        line-height: 1.5!important;
+        font-size: 56px!important;
+        padding-top: 60px;
+    }
+    .top-header{
+        padding-top: 110px;
+    }
+    .heading-upper p {
+        font-size: 16px!important;
+        margin-bottom: 0!important;
+        line-height: 1.5!important;
+    }
+    .headerBtn {
+        padding: 1px 5px!important;
+        font-size: 10px!important;
+        font-weight: 500!important;
+        background-color: transparent;
+    }
+    .alpha-squad-img {
+        padding-top: 30px;
+    }
+    .main-heading-container {
+        padding-top: 0;
+    }
+    .toyota-logo-bg {
+        background-size: 30%;
+    }
+    .diagSection, .case-study-slider {
+        display: none;
+    }
+    .industryLeaders p {
+        font-size: 12px;
+    }
+    .serviceSection .serviceHeader p {
+        font-size: 12px;
+    }
+    .serviceSection .serviceHeader h1 {
+        font-size: 14px!important;
+    }
+
+    .serviceText {
+        min-height: 43px;
+        font-size: 11px;
+        margin-bottom: 0;
+    }
+    .serviceHead {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+    .serviceMore h6 {
+        font-size: 9px;
+    }
+    .svg-background {
+        background-size: 31%;
+    }
+    .serviceSlider {
+        margin-bottom: 20px;
+    }
+    .serviceSvg{
+        width: 50px;
+        height: 35px;
+    }
+    .whySubHead {
+        font-size: 14px!important;
+        line-height: 20px!important;
+    }
+    .whyHeading {
+        font-size: 12px;
+        line-height: 0px;
+    }
+    .blogTitle h4 {
+        font-size: 12px;
+    }
+    .blogHead {
+        font-size: 24px!important;
+    }
+    .blogContainer .container .col-md-4 {
+        width: auto;
+        padding: 30px;
+        margin: 20px px;
+    }
+    .postArrow {
+        padding-top: 75px;
+    }
+    .blogPostHead {
+        font-size: 15px;
+        margin-bottom: 12px;
+    }
+    .blackPost h4 {
+        font-size: 13px;
+    }
+    .postHeading {
+        margin-top: 31px;
+    }
+    .blackPost h1 {
+        font-size: 17px;
+    }
+    .blogCard {
+        height: 295px;
+    }
+    .postAvatar {
+        width: 45px;
+        height: 45px;
+    }
+    .blogPostTitleCon {
+        margin: 12px 0 5px 0;
+        font-size: 14px;
+    }
+    .blogPostDate {
+        font-size: 12px;
+    }
+    .blogPostTitle {
+        font-size: 15px;
+        line-height: 25px;
+        margin-top: 22px;
+        margin-bottom: 19px;
+    }
+    .blogContainer .container {
+        margin-top: 27px;
+
+    }
+    .blogPostSubTitle {
+        line-height: 22px;
+        font-size: 11px;
+    }
+    .whyHead {
+        margin-top: 19px;
+    }
+    .rightForm {
+        padding: 9px;
+        position: unset;
+    }
+    .formCard {
+        margin-bottom: 20px;
+    }
+    .formPercentageText h4 {
+        font-size: 11px;
+    }
+    .formPercentageText p {
+        font-size: 12px;
+    }
+    .rightForm .form-control {
+        height: 42px;
+        font-size: 11px;
+    }
+    .formDropdown {
+        top: 13px;
+    }
+    .positionRow {
+        margin-left: unset;
+        width: 100% !important;
+    }
+    .positionRow1 {
+        margin-right: unset;
+        width: 100%  !important;
+    }
+    .p-0{
+        padding-left: 0 !important;
+        padding-right:0 !important;
+
+    }
+    .p-1{
+        margin-bottom: 15px;
+    }
+    .formBtn {
+        padding: 12px 12px;
+        font-size: 13px;
+        margin-top: 15px;
+    }
+    .largeArea .col-sm-12 .form-control {
+        height: 77px;
+    }
+    .formSquareCon {
+        margin-bottom: 0px;
+        flex-wrap: nowrap;
+        padding-bottom: 50px;
+    }
+    .header-blog{
+        height: auto;
+    }
+    .infoBox {
+        padding: 9px 21px;
+        margin-bottom: 0px;
+    }
+    .infoBoxHead {
+        font-size: 16px;
+    }
+    .infoBoxDesc {
+        font-size: 15px;
+    }
+    .mobileSlider{
+        display: block;
+    }
+    .meraContainer .row .col-md-4 {
+        width: auto;
+        margin: 0;
+    }
+    .whyInner {
+        margin: 44px 0px 14px 4px;
+    }
+    .whysubHeading {
+        margin-top: 29px;
+        margin-bottom: 16px;
+        font-size: 17px;
+    }
+    .whyDescription {
+        font-size: 12px;
+        width: auto;
+    }
+    .whyCard {
+        margin: 0 25px;
+        height: auto;
+        padding-bottom: 15px;
+    }
+    .carousel-control.right {
+        right: 3% !important;
+    }
+    .carousel-control.left {
+        left: -2%;
+    }
+    .whyInner>svg{
+        height:40px;
+    }
+    .serviceSection {
+        background-image: none;
+    }
+    .emptyDiv {
+        height: 50px;
+    }
+    /*about v1 page*/
+
+    .about-main-text{
+        padding-left:0;
+    }
+    .about-main-text h1{
+        font-size: 22px;
+        line-height: 40px;
+    }
+    .about-detail-heading h5{
+        font-size: 22px;
+    }
+    .about-long-detail{
+        font-size: 20px;
+    }
+    .custom-giving-container h1{
+        font-size: 22px;
+    }
+    .custom-giving-container p{
+        font-size: 20px;
+    }
+    .giving-row .col-md-4{
+        padding: unset;
+    }
+    .founders-heading{
+        padding-top: 55px;
+        display:block
+    }
+    .founders-heading h5{
+        font-size: 22px;
+    }
+    .founder-long-detail{
+        font-size: 20px;
+    }
+    .dis-main-heading p{
+        font-size: 22px;
+    }
+    .discplin-card-img{
+        min-height: 255px;
+    }
+    /*blog details*/
+    #homePageInner .heading-top{
+        font-size: 22px;
+    }
+    #homePageInner .communicate h1{
+        font-size: 22px;
+    }
+    /*single blogs*/
+
+    .post-cards p{
+        font-size:18px;
+    }
+    .categories-filter h1{
+        font-size: 22px;
+    }
+    .categories-filter .categories-row ul{
+        display: block;
+    }
+    /*portfolio-detail*/
+    .title{
+        font-size: 22px;
+        line-height: 40px;
+    }
+    .inner-info2{
+        padding-left:0;
+    }
+    #productPage .content_area h1{
+        font-size:22px;
+        width: 100%;
+        padding-left:0;
+        padding: 0px 17px;
+    }
+    #productPage .content_area p{
+        padding-left: 0;
+        width: 100%;
+        padding: 0px 17px;
+        font-size:20px
+    }
+    /*Mobile App development Responsive here*/
+    .mobile-header-background >div {
+        padding-bottom: 75px;
+    }
+    .mobile-content-container{
+        padding: 5px 20px !important;
+    }
+    .mobile-content .col-md-6 h5 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .mobile-content .col-md-6 h6 {
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .mobile-content .col-md-6 p {
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .trans-card-section {
+        padding-top: 75px;
+    }
+    .trans-heading h1 {
+        font-size: 50px;
+        line-height: 35px;
+    }
+    .trans-heading p {
+        font-size: 30px;
+        line-height: 45px;
+        padding: 0px 25px;
+    }
+    .trans-card-column {
+        /*padding-top: 75px;*/
+        padding: 75px 20px 10px 20px;
+    }
+    .tranp-card{
+        width: 100%;
+        text-align: center;
+    }
+    .tranp-card h6 {
+        font-size: 26px;
+        line-height: 35px;
+        min-height: 75px;
+    }
+    .tranp-card p {
+        font-size: 24px;
+        padding-bottom: 20px;
+    }
+    .number-card {
+        margin: 15px 0px;
+    }
+    .number-card h5{
+        font-size: 38px;
+    }
+    .mobile-header-background h1 {
+        font-size: 60px;
+        line-height: 70px;
+        padding-top: 20px;
+    }
+    .mobile-header-background {
+        min-height: 565px;
+        margin-top: 80px;
+    }
+    .mobile-content {
+        padding: 100px 25px 20px 20px;
+    }
+    /*Web-App development responsive style here*/
+    .web-app-header {
+        min-height: 750px;
+        margin-top: 80px;
+    }
+    .web-app-line hr {
+        width: 128px;
+        margin-left: 60px;
+        margin-right: 20px;
+    }
+    .web-app-line h4 {
+        font-size: 43px;
+        line-height: 60px;
+        padding: 0px 50px;
+        min-width: 880px;
+    }
+    .web-app-content .col-md-12 div h1 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .web-app-content .col-md-12 div h4 {
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .web-app-content .col-md-12 div p {
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .key-section h1 {
+        padding: 0px 10px 80px 10px;
+    }
+    .swithc-btn{
+        font-size: 22px;
+        min-height: 60px;
+        line-height: normal;
+    }
+    .switch-section .col-md-7 p{
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .key-section .key-card p {
+        font-size: 26px;
+    }
+    /*case studies portfolio card*/
+    .portfoliocard{
+        background-size: contain;
+    }
+    .hoverCard{
+        opacity: 1!important;
+    }
+    .formPercentage{
+        width: 100%;
+    }
+    /*responsive styling for treatment page starts*/
+    .treatment-first-section .content-div{
+        width: 100%;
+    }
+    .treatment-first-section .main-col h1{
+        font-size: 30px;
+    }
+    .treatment-first-section .main-col p {
+        font-size: 18px;
+    }
+    .first-section-sign{
+        flex-direction: column;
+    }
+    .first-section-sign p{
+        padding:20px 0px
+    }
+    /*main-section-images*/
+
+    .anim-image-1,.anim-image-2,.anim-image-3{
+        width: 100%;
+        left:0;
+        top:0
+    }
+    .anim-image-3{
+        margin-top:0
+    }
+    .anim-image-2{
+        margin-top: -110px;
+    }
+    /*main-section-images*/
+    .treat-knowledge-section .heading-col h1{
+        font-size: 30px;
+    }
+    .guess-div h1{
+        font-size: 30px;
+    }
+    .sign-btn-2{
+        width: 100%;
+        font-size: 15px;
+    }
+    .audit-section{
+        height:750px
+    }
+    .audit-img{
+        min-height: 220px;
+    }
+    .audit-section .heading-col h1 {
+        font-size: 30px;
+    }
+    .audit-list-side p {
+        font-size: 18px;
+    }
+    .audit-list-side ul{
+        margin-right:0;
+        margin-top:0;
+
+    }
+    .audit-list-side ul li{
+        font-size:16px;
+        line-height: unset;
+    }
+    .audit-list-side ul li:first-child{
+        font-size:18px
+    }
+    .audit-btn{
+        width: 100%;
+        margin-top:0;
+        font-size: 14px;
+    }
+    .audit-section .heading-col {
+        padding: 10px 0px;
+    }
+    .goto-link{
+        margin-top:30px;
+    }
+    .navbar-nav li{
+        font-size: 11px;
+    }
+    /*styling for treatment page ends*/
+}

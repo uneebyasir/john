@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="35px" viewBox="0 0 20 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow down</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-973.000000, -3044.000000)" stroke="#7494B5" stroke-width="2">
+            <g id="Down-Arrow" transform="translate(936.000000, 3016.000000)">
+                <g id="arrow-down" transform="translate(38.000000, 28.000000)">
+                    <path d="M9,0 L9,33" id="Path-43"></path>
+                    <polyline id="Path-44" points="0 25 9.0442865 33 18 25"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="348px" height="350px" viewBox="0 0 348 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>ADEAA4AC-ADF1-423E-BCC0-E8B0E73FAF88</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#CCDDF8" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#D1E1F9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#D8D8D8" offset="0%"></stop>
+            <stop stop-color="#F6F6F6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(0.000000, -1252.000000)">
+            <g id="What-We-Do" transform="translate(-2.000000, 1252.000000)">
+                <g id="Bg-Shape">
+                    <rect id="Rectangle-6" stroke="url(#linearGradient-1)" x="0.5" y="185.5" width="349" height="1"></rect>
+                    <rect id="Rectangle-6-Copy" stroke="url(#linearGradient-1)" x="0.5" y="68.5" width="149" height="1"></rect>
+                    <rect id="Rectangle-7" stroke="url(#linearGradient-2)" x="139.5" y="0.5" width="1" height="349"></rect>
+                    <circle id="Oval-5" stroke-opacity="0.3" stroke="#D2E2F9" fill="#FFFFFF" cx="140" cy="186" r="30"></circle>
+                    <circle id="Oval-5" stroke-opacity="0.6" stroke="#D2E2F9" fill="#FFFFFF" cx="139.5" cy="185.5" r="17.5"></circle>
+                    <circle id="Oval-5" stroke="url(#linearGradient-3)" stroke-width="4" fill="#FFFFFF" cx="140.5" cy="185.5" r="6.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

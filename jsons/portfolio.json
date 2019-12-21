@@ -1,0 +1,207 @@
+
+  [
+    {
+      "id": "5ce00058b2bc5cb64c94dfc0",
+      "slug": "analysis-optimization-of-toyota-usa",
+      "title": "Analysis & optimization of Toyota USA",
+      "category": "PRODUCT DEVELOPMENT",
+      "client": "Toyota",
+      "year": "2018",
+      "role": "Consultancy / Development",
+      "websiteUrl": "https://www.toyota.com/",
+      "headerImageUrl": "/static/media/Screenshot2.png",
+      "featuredImage": "/static/media/Toyota_.svg",
+      "headerImageLabel": "",
+      "headerImageLeadText": "",
+      "headerImageBtnText": "",
+      "stories": [
+        {
+          "title": "The Challenge",
+          "content": "Toyota USA’s website is their brand’s gateway, responsible for building trust, driving sales, and creating lifelong customers.  Toyota came to us with the goal of increasing conversion and revenue on their site and engaged AlphaSquad to perform a full audit and performance overhaul.   Our expert UX and backend team reviewed each conversion pathway and made detailed recommendations for code optimization, users experience enhancements and speed optimization.  From there, we engaged Toyota in a full performance and UX overhaul to increase conversion while continuing to communicate the Toyota story.",
+          "featuredImageUrl": "/static/media/toyota1.png"
+        },
+        {
+          "title": "User Experience",
+          "content": "Whether or not visitors arrive with a car shopping objective in mind, we realized Toyota’s navigation and search needed to caters to all.  For a brand with a broad customer base, from baby boomers to Generation X, we had to accommodate older users taste for simple online navigation and tendency to get flustered by more complicated websites.  At the same time, we had to appeal to younger users preference for a visual and intuitive UX that might overwhelm less tech-savvy users.  We implemented a minimal, search-oriented user interface that accommodated both digital natives and internet newcomers.",
+          "featuredImageUrl": "/static/media/toyota2.png"
+        },
+        {
+          "title": "Speed Optimization",
+          "content": "47% of customers expect a webpage to load in 2 seconds or less, according to skilled.co.  Toyota recognized that even 100ms improvements in a homepage's load time can result in a significant increase in conversion   AlphaSquad’s through code optimization increased Toyota’s website speed measurably and combined with UX enhancements surpassed conversion rate objectives.",
+          "featuredImageUrl": ""
+        }
+      ],
+      "technologies": ["ReactJS", "NodeJS", "MongoDB"],
+      "tools": ["GitHub", "Docker"]
+    },
+    {
+      "id": "5ce00058fd07883dd9d8ae0b",
+      "slug": "iot-based-platform-for-the-information-network",
+      "title": "IOT BASED PLATFORM FOR THE INFORMATION NETWORK",
+      "category": "PRODUCT DEVELOPMENT",
+      "client": "ACT",
+      "year": "2018",
+      "role": "Consultancy / Development",
+      "websiteUrl": "https://tin.azurewebsites.net/",
+      "headerImageUrl": "/static/media/act.png",
+      "featuredImage": "/static/media/TIN_m.svg",
+      "headerImageLabel": "",
+      "headerImageLeadText": "",
+      "headerImageBtnText": "",
+      "stories": [
+        {
+          "title": "Overview.",
+          "content": "ACT syncronizes physical to virtual worlds, providing the infrastructure, sensors, and beacons that connect tourists to points of interest.  ACT engaged AlphaSquad to build the frontend and backend of their new event portal in time for their Heineken Event and a demo in front of British Royal Family.",
+          "featuredImageUrl": "/static/media/act1.png"
+        },
+        {
+          "title": "UI/UX and Development",
+          "content": "We started mapping the user journey to visualize the event experience with both virtual and physical interactions, looking to make the portal innovate yet efficient and highly intuitive.  Confident our research and user journey mapping accurately captured user behavior, we moved to rapid prototyping and hi-fi concepts.  In addition to frontend development, we developed the backend APIs, services, and proximity integration.  On time, on budget, and exceeding expectations, the online portal successfully launched at the Heineken Event and demoed in front of the British Royal Family.",
+          "featuredImageUrl": "/static/media/act2.png"
+        }
+      ],
+      "technologies": ["AngularJS", "NodeJS", "Sitefinity", "IOT"],
+      "tools": ["GitHub", "Docker"]
+    },
+    {
+      "id": "5ce04b2ad3fe560baa2ef2f8",
+      "slug": "redesign-of-kribbz-platform",
+      "title": "Redesign of Kribbz Platform",
+      "category": "USER EXPERIENCE",
+      "client": "KRIBBZ",
+      "year": "2018-2019",
+      "role": "UX/Ul/Frontend",
+      "websiteUrl": "https://kribbz.com/",
+      "headerImageUrl": "/static/media/kribbz.png",
+      "featuredImage": "/static/media/kribbz_.svg",
+      "headerImageLabel": "",
+      "headerImageLeadText": "",
+      "headerImageBtnText": "",
+      "stories": [
+        {
+          "title": "The Challenge",
+          "content": "Kribbz makes it simple for anyone to buy and sell homes from their mobile device.   Needing a sophisticated UX/UI to make the mobile home buying experience seamless, Kribbz engaged AlphaSquad to rework their entire frontend, from their user journeys and style guide to pixel perfect front end development.",
+          "featuredImageUrl": "/static/media/kribbz1.png"
+        },
+        {
+          "title": "User Experience",
+          "content": " Milton Glaser says “there are three responses to a piece of design– yes, no, and WOW! Wow is the one to aim for.” To deliver the wow experience for Kribbz we started with research into the home buying process and a deep analysis of their initial UX/UI.  We started by diagraming the user flows, developing master concepts, and building the app’s style guide.  From our research, we realized it was critical to bring the physical home buying experience into the online experience. Once we were confident we captured the offline experience and the user journey we moved into rapid prototyping and hi-fi concepts.",
+          "featuredImageUrl": "/static/media/kribbz2.png"
+        },
+        {
+          "title": "Results",
+          "content": "As our UX team turned the assets over to our front end team to implement a pixel-perfect experience with reusable components.  The Kribbz team loved the new UX which reduced 30-minute processes to less than 15 minutes and truly delivered a wow experience.",
+          "featuredImageUrl": ""
+        }
+      ],
+      "technologies": ["ReactJS", "NodeJS", "MongoDB"],
+      "tools": ["GitHub", "Docker"]
+    },
+    {
+      "id": "5ce04b2ad3fe560baa2ef2f9",
+      "slug": "spot-trender",
+      "title": "Spot Trender",
+      "category": "PRODUCT DEVELOPMENT",
+      "client": "SPOT TRENDER",
+      "year": "2017-2018",
+      "role": "UX/Ul/Frontend",
+      "websiteUrl": "https://kribbz.com/",
+      "headerImageUrl": "/static/media/Spot_trender_1.png",
+      "featuredImage": "/static/media/spot_trender.svg",
+      "headerImageLabel": "",
+      "headerImageLeadText": "",
+      "headerImageBtnText": "",
+      "stories": [
+        {
+          "title": "Overview",
+          "content": "A leading ad tech Silicon Valley startup, Spot Trender provides innovate ways to test creative, content, and ideas so businesses can make smart decisions and predictions.  Spot Trender came to AlphaSquad with a concept for measuring and tracking ads, videos, and all creative assets.  From wireframing and rapid prototyping to front end development in NodeJS and GraphQL, we build the Spot Trender platform allowing them to demo and secure Warner Brothers and Redbull as clients.",
+          "featuredImageUrl": "/static/media/Spot_Trender_2.png"
+        },
+        {
+          "title": "User Experience",
+          "content": " Spot Trender provides a wide range of features, from a survey design studio and expert panels to recruiting and managing participants, to building powerful data visualizations.   The key success factor Spot Trender was user experience.  The Alpha Squad team started by developing personas, user flows, user stories, red routes, and competitor analysis.  From there we build the wireframes, worked on the rapid prototyping, and developed the hi-fi designs and final comps.  We tested with our feedback groups and iterated until everyone was confident we nailed the user experience. ",
+          "featuredImageUrl": "/static/media/Spot_Trender_3.png"
+        },
+        {
+          "title": "Development and Results",
+          "content": "The frontend was developed with NodeJS and GraphQL to meet speed, functionality and scalability requirements.  Completing QA, the Spot Trender team were thrilled with the UI/UX and immediately demoed the platform with Warner Brothers and Redbull, closing both deals.",
+          "featuredImageUrl": ""
+        }
+      ],
+      "technologies": ["ReactJS", "NodeJS", "MongoDB"],
+      "tools": ["GitHub", "Docker"]
+    },
+    {
+      "id": "5ce04b2ad3fe560baa2ef2f10",
+      "slug": "teamble",
+      "title": "Teamble",
+      "category": "PRODUCT DEVELOPMENT",
+      "client": "TEAMBLE",
+      "year": "2018",
+      "role": "Full Stack",
+      "websiteUrl": "https://teamble.com/",
+      "headerImageUrl": "/static/media/teamble1.png",
+      "featuredImage": "/static/media/teamble_.svg",
+      "headerImageLabel": "",
+      "headerImageLeadText": "",
+      "headerImageBtnText": "",
+      "stories": [
+        {
+          "title": "Overview",
+          "content": "BetterWebApps came to us with a fresh concept for Project Management, one that combines task sheets, Kanban boards, and workflow automation in one sleek user experience.  Knowing they needed to stand out in a crowded market with an innovative UI/UX and lightening-fast backend, BetterWebApps engaged AlphaSquad to build their new platform, Teamble.",
+          "featuredImageUrl": "/static/media/Teamble2.png"
+        },
+        {
+          "title": "Development",
+          "content": " We developed the frontend of Teamble in ReactJS and backend with NodeJS to gain efficiency and overall developer productivity, allow for superior code sharing and reuse, and to ensure top-notch speed and performance.",
+          "featuredImageUrl": ""
+        },
+        {
+          "title": "Results",
+          "content": " Knowing we needed an experience that was familiar and intuitive yet made a meaningfully break from the competition, we focused on building a unique set of features from the ground up. Teamble turned out to be a one of kind product that excelled in usability, flexibility, and performance.",
+          "featuredImageUrl": ""
+        }
+      ],
+      "technologies": ["ReactJS", "NodeJS", "MongoDB"],
+      "tools": ["GitHub", "Docker"]
+    },
+    {
+      "id": "5ce04b2ad3fe560baa2ef2f10",
+      "slug": "digi-comply",
+      "title": "DigiComply",
+      "category": "USER EXPERIENCE",
+      "client": "KRIBBZ",
+      "year": "2018",
+      "role": "UX/Ul/Frontend",
+      "websiteUrl": "https://kribbz.com/",
+      "headerImageUrl": "/static/media/sgs1.png",
+      "featuredImage": "/static/media/digi_comply.svg",
+      "headerImageLabel": "",
+      "headerImageLeadText": "",
+      "headerImageBtnText": "",
+      "stories": [
+        {
+          "title": "Overview",
+          "content": "SGS, the largest inspection, verification, testing and certification services group in Europe turned to AlphaSquad to build their new compliance management system, DigiComply, to help suppliers, team members, and stakeholders navigate complex compliance processes.   In addition to the user experience and development, they needed AlphaSquad to build a machine learning module for scraping documents from the web and analyzing them for standards.",
+          "featuredImageUrl": "/static/media/sgs2.png"
+        },
+        {
+          "title": "User Experience",
+          "content": "The AlphaSquad team started by developing personas, user flows, user stories, red routes, and competitor analysis.  From there we build the wireframes, worked on the rapid prototyping, and developed the hi-fi designs and final comps.  We tested with our feedback groups and iterated until everyone was confident we nailed the user experience. ",
+          "featuredImageUrl": "/static/media/sgs3.png"
+        },
+        {
+          "title": "Development",
+          "content": "We chose AngularJS to take advantage of its superior design architecture.  The key differentiator of DigiComply was the machine learning module that was able to scrap and analyze key terms from disparate documents and make compliance recommendations.",
+          "featuredImageUrl": ""
+        },
+        {
+          "title": "Results",
+          "content": "Our hard work with the SGS team paid off.  We delivered a UX for DigiComply that wowed users and a backed that was fast and nibble.  The SGS team deployed DigiComply to wide acclaim from the business stakeholders and end users.",
+          "featuredImageUrl": ""
+        }
+      ],
+      "technologies": ["ReactJS", "NodeJS", "GraphQL"],
+      "tools": ["GitHub", "Docker"]
+    }
+  ]

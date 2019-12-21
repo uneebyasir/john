@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47.999" height="47.999" viewBox="0 0 47.999 47.999">
+  <g id="network" transform="translate(-2 -2)">
+    <path id="Path_2021" data-name="Path 2021" d="M4.4,14.8h4v2.4H6v1.6h9.6V17.2H13.2V14.8h4a2.4,2.4,0,0,0,2.4-2.4v-8A2.4,2.4,0,0,0,17.2,2H4.4A2.4,2.4,0,0,0,2,4.4v8A2.4,2.4,0,0,0,4.4,14.8Zm7.2,2.4H10V14.8h1.6ZM3.6,4.4a.8.8,0,0,1,.8-.8H17.2a.8.8,0,0,1,.8.8v8a.8.8,0,0,1-.8.8H4.4a.8.8,0,0,1-.8-.8Z" transform="translate(0 0)" fill="#000000"/>
+    <path id="Path_2022" data-name="Path 2022" d="M55.2,2H42.4A2.4,2.4,0,0,0,40,4.4v8a2.4,2.4,0,0,0,2.4,2.4h4v2.4H44v1.6h9.6V17.2H51.2V14.8h4a2.4,2.4,0,0,0,2.4-2.4v-8A2.4,2.4,0,0,0,55.2,2ZM49.6,17.2H48V14.8h1.6ZM56,12.4a.8.8,0,0,1-.8.8H42.4a.8.8,0,0,1-.8-.8v-8a.8.8,0,0,1,.8-.8H55.2a.8.8,0,0,1,.8.8Z" transform="translate(-7.601 0)" fill="#000000"/>
+    <rect id="Rectangle_145" data-name="Rectangle 145" width="1.6" height="1.6" transform="translate(10 10.8)" fill="#000000"/>
+    <rect id="Rectangle_146" data-name="Rectangle 146" width="1.6" height="1.6" transform="translate(12.4 10.8)" fill="#000000"/>
+    <rect id="Rectangle_147" data-name="Rectangle 147" width="1.6" height="1.6" transform="translate(7.6 10.8)" fill="#000000"/>
+    <rect id="Rectangle_148" data-name="Rectangle 148" width="1.6" height="1.6" transform="translate(40.399 10.8)" fill="#000000"/>
+    <rect id="Rectangle_149" data-name="Rectangle 149" width="1.6" height="1.6" transform="translate(42.799 10.8)" fill="#000000"/>
+    <rect id="Rectangle_150" data-name="Rectangle 150" width="1.6" height="1.6" transform="translate(37.999 10.8)" fill="#000000"/>
+    <path id="Path_2023" data-name="Path 2023" d="M17.2,41H4.4A2.4,2.4,0,0,0,2,43.4v8a2.4,2.4,0,0,0,2.4,2.4h4v2.4H6v1.6h9.6V56.2H13.2V53.8h4a2.4,2.4,0,0,0,2.4-2.4v-8A2.4,2.4,0,0,0,17.2,41ZM11.6,56.2H10V53.8h1.6ZM18,51.4a.8.8,0,0,1-.8.8H4.4a.8.8,0,0,1-.8-.8v-8a.8.8,0,0,1,.8-.8H17.2a.8.8,0,0,1,.8.8Z" transform="translate(0 -7.801)" fill="#000000"/>
+    <path id="Path_2024" data-name="Path 2024" d="M55.2,41H42.4A2.4,2.4,0,0,0,40,43.4v8a2.4,2.4,0,0,0,2.4,2.4h4v2.4H44v1.6h9.6V56.2H51.2V53.8h4a2.4,2.4,0,0,0,2.4-2.4v-8A2.4,2.4,0,0,0,55.2,41ZM49.6,56.2H48V53.8h1.6ZM56,51.4a.8.8,0,0,1-.8.8H42.4a.8.8,0,0,1-.8-.8v-8a.8.8,0,0,1,.8-.8H55.2a.8.8,0,0,1,.8.8Z" transform="translate(-7.601 -7.801)" fill="#000000"/>
+    <rect id="Rectangle_151" data-name="Rectangle 151" width="1.6" height="1.6" transform="translate(10 41.999)" fill="#000000"/>
+    <rect id="Rectangle_152" data-name="Rectangle 152" width="1.6" height="1.6" transform="translate(12.4 41.999)" fill="#000000"/>
+    <rect id="Rectangle_153" data-name="Rectangle 153" width="1.6" height="1.6" transform="translate(7.6 41.999)" fill="#000000"/>
+    <rect id="Rectangle_154" data-name="Rectangle 154" width="1.6" height="1.6" transform="translate(40.399 41.999)" fill="#000000"/>
+    <rect id="Rectangle_155" data-name="Rectangle 155" width="1.6" height="1.6" transform="translate(42.799 41.999)" fill="#000000"/>
+    <rect id="Rectangle_156" data-name="Rectangle 156" width="1.6" height="1.6" transform="translate(37.999 41.999)" fill="#000000"/>
+    <path id="Path_2025" data-name="Path 2025" d="M42,25v3.347A2.4,2.4,0,0,0,40.546,29.8H14.653A2.4,2.4,0,0,0,13.2,28.347V25H11.6v3.347a2.386,2.386,0,0,0,0,4.506V36.2h1.6V32.853A2.4,2.4,0,0,0,14.653,31.4H40.546A2.4,2.4,0,0,0,42,32.853V36.2h1.6V32.853a2.386,2.386,0,0,0,0-4.506V25ZM12.4,31.4a.8.8,0,1,1,.8-.8A.8.8,0,0,1,12.4,31.4Zm30.4,0a.8.8,0,1,1,.8-.8A.8.8,0,0,1,42.8,31.4Z" transform="translate(-1.6 -4.6)" fill="#000000"/>
+  </g>
+</svg>
+

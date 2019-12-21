@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="50px" viewBox="0 0 111 98" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="65.1789125%" y1="11.8172226%" x2="50%" y2="88.1827774%" id="linearGradient-1">
+            <stop stop-color="#F5F5F5" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-848.000000, -1540.000000)">
+            <g id="What-We-Do" transform="translate(-2.000000, 1252.000000)">
+                <g id="Block-2" transform="translate(850.000000, 288.000000)">
+                    <g id="Icon">
+                        <g id="iconBg1/light" fill="url(#linearGradient-1)">
+                            <path d="M19.4845389,96.5236074 C-1.54639197,60.5559646 -5.55228357,39.4083227 7.46686411,33.0806819 C26.9955856,23.5892206 80.0736492,-36.3568508 106.111945,33.0806819 C123.470808,79.3723703 94.5950062,100.520012 19.4845389,96.5236074 Z" id="Path-6"></path>
+                        </g>
+                        <g id="Icon/home/services/2" transform="translate(16.000000, 33.000000)">
+                            <g id="Icon">
+                                <path d="M56.8333333,12 L5.16666667,12 C2.31208333,12 0,14.3027143 0,17.1428571 L0,48 L62,48 L62,17.1428571 C62,14.3027143 59.686625,12 56.8333333,12 Z" id="Path" stroke="#110F10" stroke-width="2"></path>
+                                <polygon id="Fill-15" fill="#FFFFFF" points="11 21 51 21 51 0 11 0"></polygon>
+                                <path d="M10,11.3529412 L10,45 M51,45 L51,1 L48.4375,1 M24.09375,35.2352941 L18.96875,35.2352941 M39.96875,35.2352941 L26.96875,35.2352941 M40.3462501,26.8823529 L34.65625,26.8823529 M31.0887499,26.8823529 L18.96875,26.8823529" id="Stroke-16" stroke="#110F10" stroke-width="2"></path>
+                                <polygon id="Path" stroke="#110F10" stroke-width="2" stroke-linejoin="round" points="20 11 10 11 20 1"></polygon>
+                                <path d="M35,59 L25,59 L20,64 L40,64 L35,59 Z M15,64 L45,64 L15,64 Z" id="Stroke-18" stroke="#110F10" stroke-width="2"></path>
+                                <polygon id="Fill-19" fill="#FFFFFF" points="15 60 45 60 45 55 15 55"></polygon>
+                                <path d="M0,47 L0,52 C0,54.7625 2.31208333,57 5.16666667,57 L56.8333333,57 C59.686625,57 62,54.7625 62,52 L62,47 L0,47 Z" id="Fill-20" fill="#FFFFFF"></path>
+                                <path d="M0,47 L0,52 C0,54.7625 2.31208333,57 5.16666667,57 L56.8333333,57 C59.686625,57 62,54.7625 62,52 L62,47 L0,47 Z" id="Stroke-21" stroke="#110F10" stroke-width="2"></path>
+                                <path d="M26,52 L36,52" id="Stroke-22" stroke="#110F10" stroke-width="2"></path>
+                                <path d="M48,19 C48,22.3132 45.3144,25 42,25 C38.6868,25 36,22.3132 36,19 C36,15.6868 38.6868,13 42,13 C45.3144,13 48,15.6868 48,19" id="Fill-23" fill="#FFFFFF"></path>
+                                <path d="M36,11.5 C36,13.9852857 33.9852857,16 31.5,16 C29.0147143,16 27,13.9852857 27,11.5 C27,9.01471429 29.0147143,7 31.5,7 C33.9852857,7 36,9.01471429 36,11.5" id="Fill-24" fill="#FFFFFF"></path>
+                                <path d="M33,12.6666667 C33,14.14 31.7795455,15.3333333 30.2727273,15.3333333 C28.7672727,15.3333333 27.5454545,14.14 27.5454545,12.6666667 C27.5454545,11.1933333 28.7672727,10 30.2727273,10 C31.7795455,10 33,11.1933333 33,12.6666667 Z M42.8731077,2.62685264 C42.8731077,3.5248753 42.1277134,4.25370529 41.2092811,4.25370529 C40.2908488,4.25370529 39.5454545,3.5248753 39.5454545,2.62685264 C39.5454545,1.72882998 40.2908488,1 41.2092811,1 C42.1277134,1 42.8731077,1.72882998 42.8731077,2.62685264 Z" id="Stroke-25" stroke="#6A6A6A" stroke-width="2" stroke-linejoin="round"></path>
+                                <path d="M41.2515223,40 C40.8569477,40 40.4775006,39.7941844 40.2354612,39.4476847 C40.0967928,39.2483822 39.8913115,38.8328431 40.0690591,38.2805278 L42.8373844,29.7001008 L62.8686631,9 L70,16.3702832 L49.9687213,37.0690814 L41.6637456,39.929658 C41.5263378,39.9765527 41.3876694,40 41.2515223,40" id="Fill-26" fill="#FFFFFF"></path>
+                                <path d="M52.0777216,34.0281854 L44.4190289,36.5810829 L46.9717942,28.9209817 L66.3069894,9.58578644 L71.4142386,14.6930356 L52.0777216,34.0281854 Z" id="Stroke-28" stroke="#6A6A6A" stroke-width="2" stroke-linejoin="round"></path>
+                                <path d="M20,0.5 L29,0.5" id="Path-10" stroke="#6A6A6A" stroke-width="2"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

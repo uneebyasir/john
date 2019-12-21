@@ -1,0 +1,104 @@
+[
+{
+  "id": "5ce04b2ad3fe560baa2ef2f10",
+  "slug": "aitheon",
+  "title": "AITHEON",
+  "category": "USER EXPERIENCE",
+  "client": "KRIBBZ",
+  "year": "2018",
+  "role": "UX/Ul/Frontend",
+  "websiteUrl": "https://kribbz.com/",
+  "headerImageUrl": "/static/media/Aitheon1.png",
+  "featuredImage": "/static/media/Aitheon.png",
+  "headerImageLabel": "",
+  "headerImageLeadText": "",
+  "headerImageBtnText": "",
+  "stories": [
+    {
+      "title": "Overview",
+      "content": "A leading ad tech Silicon Valley startup, Spot Trender provides innovate ways to test creative, content, and ideas so businesses can make smart decisions and predictions.  Spot Trender came to AlphaSquad with a concept for measuring and tracking ads, videos, and all creative assets.  From wireframing and rapid prototyping to front end development in NodeJS and GraphQL, we build the Spot Trender platform allowing them to demo and secure Warner Brothers and Redbull as clients.",
+      "featuredImageUrl": "/static/media/Aitheon2.png"
+    },
+    {
+      "title": "User Experience",
+      "content": " Spot Trender provides a wide range of features, from a survey design studio and expert panels to recruiting and managing participants, to building powerful data visualizations.   The key success factor Spot Trender was user experience.  The Alpha Squad team started by developing personas, user flows, user stories, red routes, and competitor analysis.  From there we build the wireframes, worked on the rapid prototyping, and developed the hi-fi designs and final comps.  We tested with our feedback groups and iterated until everyone was confident we nailed the user experience. ",
+      "featuredImageUrl": "/static/media/Aitheon3.png"
+    },
+    {
+      "title": "Development and Results",
+      "content": "The frontend was developed with NodeJS and GraphQL to meet speed, functionality and scalability requirements.  Completing QA, the Spot Trender team were thrilled with the UI/UX and immediately demoed the platform with Warner Brothers and Redbull, closing both deals.",
+      "featuredImageUrl": "/static/media/default-placeholder-1024x1024.png"
+    }
+  ],
+  "technologies": ["ReactJS", "NodeJS", "GraphQL"],
+  "tools": ["GitHub", "Docker"]
+},
+{
+"id": "5ce04b2ad3fe560baa2ef2f10",
+"slug": "scout-force-athlete",
+"title": "ScoutForce Athlete",
+"category": "USER EXPERIENCE",
+"client": "KRIBBZ",
+"year": "2018",
+"role": "UX/Ul/Frontend",
+"websiteUrl": "https://kribbz.com/",
+"headerImageUrl": "/static/media/ScoutForce1.png",
+"featuredImage": "/static/media/Scoutforce_A.png",
+"headerImageLabel": "",
+"headerImageLeadText": "",
+"headerImageBtnText": "",
+"stories": [
+{
+"title": "Overview",
+"content": "A leading ad tech Silicon Valley startup, Spot Trender provides innovate ways to test creative, content, and ideas so businesses can make smart decisions and predictions.  Spot Trender came to AlphaSquad with a concept for measuring and tracking ads, videos, and all creative assets.  From wireframing and rapid prototyping to front end development in NodeJS and GraphQL, we build the Spot Trender platform allowing them to demo and secure Warner Brothers and Redbull as clients.",
+"featuredImageUrl": "/static/media/Scoutforce2.png"
+},
+{
+"title": "User Experience",
+"content": " Spot Trender provides a wide range of features, from a survey design studio and expert panels to recruiting and managing participants, to building powerful data visualizations.   The key success factor Spot Trender was user experience.  The Alpha Squad team started by developing personas, user flows, user stories, red routes, and competitor analysis.  From there we build the wireframes, worked on the rapid prototyping, and developed the hi-fi designs and final comps.  We tested with our feedback groups and iterated until everyone was confident we nailed the user experience. ",
+"featuredImageUrl": "/static/media/scoutforce3.png"
+},
+{
+"title": "Development and Results",
+"content": "The frontend was developed with NodeJS and GraphQL to meet speed, functionality and scalability requirements.  Completing QA, the Spot Trender team were thrilled with the UI/UX and immediately demoed the platform with Warner Brothers and Redbull, closing both deals.",
+"featuredImageUrl": ""
+}
+],
+"technologies": ["ReactJS", "NodeJS", "GraphQL"],
+"tools": ["GitHub", "Docker"]
+},
+{
+"id": "5ce04b2ad3fe560baa2ef2f10",
+"slug": "randys-wordwide",
+"title": "Randys WordWide",
+"category": "USER EXPERIENCE",
+"client": "KRIBBZ",
+"year": "2018",
+"role": "UX/Ul/Frontend",
+"websiteUrl": "https://kribbz.com/",
+"headerImageUrl": "/static/media/randys1.png",
+"featuredImage": "/static/media/Randys.png",
+"headerImageLabel": "",
+"headerImageLeadText": "",
+"headerImageBtnText": "",
+"stories": [
+{
+"title": "Overview",
+"content": "A leading ad tech Silicon Valley startup, Spot Trender provides innovate ways to test creative, content, and ideas so businesses can make smart decisions and predictions.  Spot Trender came to AlphaSquad with a concept for measuring and tracking ads, videos, and all creative assets.  From wireframing and rapid prototyping to front end development in NodeJS and GraphQL, we build the Spot Trender platform allowing them to demo and secure Warner Brothers and Redbull as clients.",
+"featuredImageUrl": "/static/media/randys2.png"
+},
+{
+"title": "User Experience",
+"content": " Spot Trender provides a wide range of features, from a survey design studio and expert panels to recruiting and managing participants, to building powerful data visualizations.   The key success factor Spot Trender was user experience.  The Alpha Squad team started by developing personas, user flows, user stories, red routes, and competitor analysis.  From there we build the wireframes, worked on the rapid prototyping, and developed the hi-fi designs and final comps.  We tested with our feedback groups and iterated until everyone was confident we nailed the user experience. ",
+"featuredImageUrl": "/static/media/Randys3.png"
+},
+{
+"title": "Development and Results",
+"content": "The frontend was developed with NodeJS and GraphQL to meet speed, functionality and scalability requirements.  Completing QA, the Spot Trender team were thrilled with the UI/UX and immediately demoed the platform with Warner Brothers and Redbull, closing both deals.",
+"featuredImageUrl": ""
+}
+],
+"technologies": ["ReactJS", "NodeJS", "GraphQL"],
+"tools": ["GitHub", "Docker"]
+}
+]
